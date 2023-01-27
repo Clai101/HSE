@@ -11,7 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>Seminaries_minor</Name>
     <RootNamespace>Seminaries_minor</RootNamespace>
-    <InterpreterId>MSBuild|HSE_inv|$(MSBuildProjectFullPath)</InterpreterId>
+    <InterpreterId>Global|VisualStudio|Py_ph (Python 3.9 (64-bit))</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -26,15 +26,7 @@
     <Compile Include="Seminaries_minor.py" />
   </ItemGroup>
   <ItemGroup>
-    <Interpreter Include="HSE_inv\">
-      <Id>HSE_inv</Id>
-      <Version>3.8</Version>
-      <Description>HSE_inv (Python 3.8 (32-bit))</Description>
-      <InterpreterPath>Scripts\python.exe</InterpreterPath>
-      <WindowsInterpreterPath>Scripts\pythonw.exe</WindowsInterpreterPath>
-      <PathEnvironmentVariable>PYTHONPATH</PathEnvironmentVariable>
-      <Architecture>X86</Architecture>
-    </Interpreter>
+    <InterpreterReference Include="Global|VisualStudio|Py_ph (Python 3.9 (64-bit))" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

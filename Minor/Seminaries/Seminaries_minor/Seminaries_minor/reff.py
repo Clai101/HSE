@@ -30,7 +30,6 @@ class array:
             raise ValueError("Wong data type")
 
     def __add__(self, a):
-        if self.si
         if isinstance(a, (int,float)):
             return [[j + a for j in i] for i in self.arr]
         elif isinstance(a, array):
@@ -57,7 +56,7 @@ class array:
 
 
 A = array([[2, 5, 5], [2, 0, 2], [1, -0.5, 1]])
-
+A[11]
 print(array([1, 2, 3]) *  3)
 
 """
