@@ -1,6 +1,5 @@
 import functools
 
-
 class array:
     def __init__(self, arr, t = 1):
         if isinstance(arr, (int, float)):

@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6484b3cd-b496-4aa4-9dac-dee679235f67</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>reff.py</StartupFile>
+    <StartupFile>Seminaries_minor.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
