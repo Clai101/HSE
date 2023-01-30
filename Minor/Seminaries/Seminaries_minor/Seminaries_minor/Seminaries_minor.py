@@ -1,6 +1,10 @@
 import numpy as np
 import sympy as sp
+<<<<<<< HEAD
 
+=======
+import scipy as sip
+>>>>>>> 11d9c2dffe39db0a3f04a1c838ba68a75f4ae955
 
 
 #1
