@@ -4,14 +4,14 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>6484b3cd-b496-4aa4-9dac-dee679235f67</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>reff.py</StartupFile>
+    <StartupFile>модуль1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
     <Name>Seminaries_minor</Name>
     <RootNamespace>Seminaries_minor</RootNamespace>
-    <InterpreterId>MSBuild|HSE_inv|$(MSBuildProjectFullPath)</InterpreterId>
+    <InterpreterId>MSBuild|HSE_inv1|$(MSBuildProjectFullPath)</InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -24,10 +24,11 @@
   <ItemGroup>
     <Compile Include="reff.py" />
     <Compile Include="Seminaries_minor.py" />
+    <Compile Include="модуль1.py" />
   </ItemGroup>
   <ItemGroup>
-    <Interpreter Include="HSE_inv\">
-      <Id>HSE_inv</Id>
+    <Interpreter Include="..\..\..\..\..\HSE_inv\">
+      <Id>HSE_inv1</Id>
       <Version>3.8</Version>
       <Description>HSE_inv (Python 3.8 (32-bit))</Description>
       <InterpreterPath>Scripts\python.exe</InterpreterPath>

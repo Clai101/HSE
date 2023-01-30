@@ -16,34 +16,63 @@ class array:
             elif isinstance(self.arr[i], list):
                 self.arr[i] = array(self.arr[i])
 
-
     def __mul__(self, a):
-        if isinstance(a, (int,float)):
-            return  [[j * a for j in i] for i in self.arr]
-        elif isinstance(a, array):
-            if self.size[1] != a.size[0]:
-                raise ValueError("Incompatible matrix size for multiplication")
+        if self.size[0] == 1:
+            if isinstance(a, (int,float)):
+                return array([i * a for i in self.arr])
+            elif isinstance(a, array):
+                if self.size[1] != a.size[0]:
+                    raise ValueError("Incompatible matrix size for multiplication")
+                elif self.size[0] == a.size[1] == 1:
+                    return float([[functools.reduce(lambda x, y: x + y, [self.arr[i] * a.arr[k][j] for k in range(self.size[1])]) 
+                                 for j in range(a.size[1])] for i in range(self.size[0])][0][0])
+                else:
+                    return array([[functools.reduce(lambda x, y: x + y, [self.arr[i] * a.arr[k][j] for k in range(self.size[1])]) 
+                                 for j in range(a.size[1])] for i in range(self.size[0])])
             else:
-                return array([[functools.reduce(lambda x, y: x + y, [self.arr[i][k] * a.arr[k][j] for k in range(self.size[1])]) 
-                             for j in range(a.size[1])] for i in range(self.size[0])])
+                raise ValueError("Wong data type")
         else:
-            raise ValueError("Wong data type")
+            if isinstance(a, (int,float)):
+                return  array([[j * a for j in i] for i in self.arr])
+            elif isinstance(a, array):
+                if self.size[1] != a.size[0]:
+                    raise ValueError("Incompatible matrix size for multiplication")
+                else:
+                    return array([[functools.reduce(lambda x, y: x + y, [self.arr[i][k] * a.arr[k][j] for k in range(self.size[1])]) 
+                                 for j in range(a.size[1])] for i in range(self.size[0])])
+            else:
+                raise ValueError("Wong data type")
 
     def __add__(self, a):
-        if self.si
-        if isinstance(a, (int,float)):
-            return [[j + a for j in i] for i in self.arr]
-        elif isinstance(a, array):
-            if self.size != a.size:
-                raise ValueError("Incompatible matrix size for multiplication")
+        if self.size[0] == 1:
+            if isinstance(a, (int,float)):
+                return array([i + a for i in self.arr])
+            elif isinstance(a, array):
+                if self.size != a.size:
+                    raise ValueError("Incompatible matrix size for multiplication")
+                else:
+                    return array([a.arr[i] + self.arr[i] for i in range(self.size[0])])
             else:
-                return array([[a.arr[i][j] + self.arr[i][j] for j in range(self.size[1])] for i in range(self.size[0])])
+                raise ValueError("Wong data type")
         else:
-            raise ValueError("Wong data type")
+            if isinstance(a, (int,float)):
+                return array([[j + a for j in i] for i in self.arr])
+            elif isinstance(a, array):
+                if self.size != a.size:
+                    raise ValueError("Incompatible matrix size for multiplication")
+                else:
+                    return array([[a.arr[i][j] + self.arr[i][j] for j in range(self.size[1])] for i in range(self.size[0])])
+            else:
+                raise ValueError("Wong data type")
+    def __radd__(self, a):
+        return array(self.arr) + a
+    def __rmul__(self, a):
+        return array(self.arr) * a
 
     def __str__(self):
-        return "\n".join(["\t".join(map(str,row)) for row in self.arr])
-
+        if self.size != [1, 1]:
+            return "\n".join(["\t".join(map(str,row)) for row in self.arr])
+        return str(self.arr[0])
     def Gaussian_elimination(self):
         A = self.arr
         for i in range(len(A)):
@@ -58,7 +87,7 @@ class array:
 
 A = array([[2, 5, 5], [2, 0, 2], [1, -0.5, 1]])
 
-print(array([1, 2, 3]) *  3)
+print( array([1, 2, 3]) * A)
 
 """
 # Coefficient matrix
