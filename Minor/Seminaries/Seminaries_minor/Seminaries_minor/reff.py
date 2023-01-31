@@ -71,16 +71,16 @@ class array:
         A = self * 1
         n, m = A.size[0], A.size[1]
         for i in range(n):
-            if A[i, i] == 0:
+            if A[i, min(i,m-1)] == 0:
                 continue
-            A.arr[i] = (A[i:i+1, 0:m]*A[i, i]**-1).arr[0]
+            A.arr[i] = (A[i:i+1, 0:m]*A[i, min(i, m-1)]**-1).arr[0]
             for j in range(i+1, n):
-                A.arr[j] = (A[j:j+1, 0:m] + (-1)*A[i:i+1, 0:m]*A[j, i]).arr[0]
+                A.arr[j] = (A[j:j+1, 0:m] + (-1)*A[i:i+1, 0:m]*A[j, min(i,m-1)]).arr[0]
         for i in range(n-1, 0, -1):
-            if A[i, i] == 0:
+            if A[i, min(i, m-1)] == 0:
                 continue
             for j in range(0, i):
-                A.arr[j] = (A[j:j+1, 0:m] + (-1)*A[i:i+1, 0:m]*A[j, i]).arr[0]
+                A.arr[j] = (A[j:j+1, 0:m] + (-1)*A[i:i+1, 0:m]*A[j, min(i,m-1)]).arr[0]
         return A
     
     @property
@@ -99,8 +99,14 @@ class array:
     def decomposition(self):
         A = self * 1
         Ag = A.Gaussian_elimination
-        a = [Ag[i, i] == 1 for i in range(min(A.size))]
-        return array([Ag.arr[i] for i in range(min(A.size)) if a[i]]), array([[A.arr[i][j] for j in range(A.size[1]) if a[j]] for i in range(A.size[0])])
+        a = []
+        for i in range(Ag.size[1]):
+            _ = -1
+            a = a + [_]
+            for j in range(Ag.size[0]):
+                if Ag[j, i] == 1 and j > max(a):
+                    a[-1] = j
+        return array([Ag.arr[i] for i in a if i >= 0]), array([[A.arr[i][j] for j in range(A.size[1]) if a[j] >= 0] for i in range(A.size[0])])
     
 
 
@@ -109,11 +115,13 @@ A2 = array([[2, -1, 0], [-1, 1, 1], [0, 1, 2]])
 A3 = array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
 A4 = array([[1, 0, 0], [1, 1, 1], [0, 1, 1]])
 A5 = array([[1, 0, 0], [1, 0, 1], [0, 0, 1]])
+A6 = array([[4, 2, 8, 5], [7, 45, 2, 0], [76, 1, 3, 3], [5, 6, 4, 7]])
+
+P1 = array([[1, 0], [1, 0], [0, 3]])
+
+A = P1
 
 
-A = A4
-
-print(A.Gaussian_elimination)
 F, G = A.decomposition
 print(F, G, sep = '\n\n\n')
 print(G * F, sep = '\n\n\n')
