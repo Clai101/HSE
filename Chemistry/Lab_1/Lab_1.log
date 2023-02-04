@@ -790,4 +790,67 @@ LaTeX Font Info:    ... okay on input line 113.
 \MPnumerator=\count309
 \makeMPintoPDFobject=\count310
 \everyMPtoPDFconversion=\toks49
-) (C:\Apps\MiTeX\tex/latex/epstopdf-pkg\epstopdf-base.s
+) (C:\Apps\MiTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Apps\MiTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \th on input line 113.
+ (Title.tex
+<FOPF.png, id=4, 524.6802pt x 525.6438pt>
+File: FOPF.png Graphic file (type png)
+<use FOPF.png>
+Package pdftex.def Info: FOPF.png  used on input line 155.
+(pdftex.def)             Requested size: 288.55899pt x 289.07999pt.
+
+Overfull \hbox (80.44365pt too wide) in paragraph at lines 159--160
+[][] 
+ []
+
+) [1
+
+]
+Overfull \vbox (101.57753pt too high) has occurred while \output is active []
+
+ [2{C:/Users/Mat/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./FOPF.png>]
+\openout3 = `Lab_1.auxlock'.
+
+ (Lab_1.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (C:\Apps\MiTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (C:\Apps\MiTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `Lab_1.toc'.
+
+ (C:\Apps\MiTeX\tex/latex/titlesec\titleps.sty
+
+Package titlesec Warning: You are using an old interface for page styles
+(titlesec)                (or you forgot the package option 'pagestyles').
+(titlesec)                You could proceed but don't complain if you run
+(titlesec)                into errors.
+
+) [1] [2] (Lab_1.aux) ) 
+Here is how much of TeX's memory you used:
+ 23537 strings out of 475385
+ 450667 string characters out of 2791452
+ 2975477 words of memory out of 3000000
+ 44524 multiletter control sequences out of 15000+600000
+ 480883 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,15n,89p,648b,10712s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/latxfont/line10.pfb>
+Output written on Lab_1.pdf (4 pages, 622617 bytes).
+PDF statistics:
+ 197 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+
