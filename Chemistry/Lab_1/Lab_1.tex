@@ -132,7 +132,6 @@
 \setfoot{}{\thepage}{\sectiontitle }}
 \pagestyle{main}
 
-
 \section{Данные}
 \subsection{Эксперемент}
 \begin{equation} 
@@ -154,7 +153,8 @@
 \end{equation} 
 \begin{table}[h]
 \begin{tabular}{l||l|l|l|l}
-\backslashbox{еденица}{десяток} & 0    & 1    & 2    & 3    \\ \hline \hline
+\backslashbox{еденица}{десяток} & 0    & 1    & 2    & 3    
+\\ \hline \hline
 0 & 5.66 & 3.39 & 2.94 & 2.71 \\ \hline
 1 & 5.49 & 3.32 & 2.9  & 2.7  \\ \hline
 2 & 5.25 & 3.27 & 2.88 & 2.68 \\ \hline
@@ -169,7 +169,7 @@
 \end{table}
 
 
-\section{Теория}
+\section{Теория и пердварительные расчеты}
 \subsection{Эксперемент}
 \begin{equation} 
     NaOH + HCl \to NaCl + H_2O 
@@ -178,21 +178,22 @@
     M_{NaOH} = 23 + 16 + 1 = 40 \cfrac{g}{mol}
 \end{equation*} 
 \begin{equation*} 
-    \nu = C_{NaOH} V = 10^{ - 4} \cdot 10^2 = 10^{ - 2} mol
+    n = C_{NaOH} V = 10^{ - 4} \cdot 10^2 = 10^{ - 2} mol
 \end{equation*} 
 \begin{equation} 
-    m_{NaOH} = M_{NaOH} \nu = 4 \cdot 10^{ - 1} g
+    m_{NaOH} = M_{NaOH} n = 4 \cdot 10^{ - 1} g
 \end{equation}  
 
 \subsection{Эксперемент}
 \begin{equation} 
-    NaOH + NaH_2PO_4 \dot 2 H_2 O \to NaH_2PO_4 + H_2 O
+    NaOH + NaH_2PO_4 \cdot 2 H_2 O \to NaH_2PO_4 + H_2 O
 \end{equation} 
+
 \begin{equation*} 
     M_{NaOH} = 23 + 16 + 1 = 40 \cfrac{g}{mol}
 \end{equation*} 
 \begin{equation*} 
-    M_{NaH_2PO_4 \dot 2 H_2 O} = 23 + 2 +  31 + 64 = 120 \cfrac{g}{mol}
+    M_{NaH_2PO_4 \dot 2 H_2 O} = 23 + 2 +  31 + 64 + 1 + 35 = 156 \cfrac{g}{mol}
 \end{equation*}
 
 \begin{equation*} 
@@ -210,7 +211,7 @@
 \begin{equation} 
   C_{NaH_2PO_4 \dot 2 H_2 O} = C_{NaOH} \implies 
   C_{NaH_2PO_4 \dot 2 H_2 O} = \cfrac{10^{ - 2} }{2} = 
-  5 \cdot 10^{ - 3}  
+  5 \cdot 10^{ - 3} \cfrac{mol}{l}
 \end{equation} 
 
 \begin{equation} 
@@ -218,10 +219,67 @@
 \end{equation} 
  
 \begin{equation} 
- m_{NaH_2PO_4 \dot 2 H_2 O} = 156 \cdot 5 \cdot 10 = 
+ m_{NaH_2PO_4 \dot 2 H_2 O} = 156 \cdot 5 \cdot 10^{ - 3} = 
  78 \cdot 10^{ - 3} g  
 \end{equation} 
 
+\section{Анализ данных}
 
+\subsection{Эксперемент}
+
+\tab Найдем м=средний объем:
+
+\begin{equation*} 
+ \ave{V} = \cfrac{V_1 + V_2 + V_3}{3} = 10.8 ml,
+\end{equation*} 
+теперь найдем фактическую массу прореагировавшего вещества:
+\begin{equation*} 
+ m_{f \ NaOH} = m_{NaOH} \cdot \cfrac{\ave{V}}{V_{sol}} = 
+  0.4017 \cdot \cfrac{10.8}{100}= 0.043 g.  
+\end{equation*} 
+Из реакции: 
+\begin{equation*} 
+ n_{HCl} = n_{NaOH},
+\end{equation*} 
+\begin{equation*} 
+  n_{HCl} = V_{sol \ HCl} \cdot C_{0.1} = 
+  10 \cdot 0.1 \cdot 10^{ - 3}
+  = 10^{ - 3} mol,
+\end{equation*} 
+получим концентрацию
+\begin{equation} 
+  C_{NaOH} = \frac{n_{NaOH}}{\ave V} = 
+  \cfrac{10^{ - 3}}{10.8 \cdot 10^{ - 3}} 
+  = 0.0926 \cfrac{mol}{l}.
+\end{equation} 
+
+
+\subsection{Эксперемент}
+\tab По формуле Гендерсона:
+
+\begin{equation} 
+  pH = pK + \ln \inner{\cfrac{C_{s}}{C_{a}}},
+\end{equation} 
+у нас вроли кислоты выступает $NaH_2PO_4$, а в качестве соли 
+$Na_2HPO_4$. При $t = 0$ 
+\begin{equation*} 
+    \cfrac{C_{s}}{C_{a}} = 2 \implies pH(t = 0) = pK_{a} = 6.35
+\end{equation*} 
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.7\linewidth]{desmos-graph.png}
+     \caption{}
+    \label{pn}
+\end{figure}
+
+Ксожелениею, растовор получился плохим и поэтому данных с 
+$pH\inner{\delta}$ где $\delta$ это объем добавленной соляной кислоты
+поэтому растчитать.з уравнения 2.3 можно расчитать определить, что 
+коэффицент эквивалентности - 1, буфферную емкость раствора можно 
+по формуле:
+\begin{equation} 
+ p = \cfrac{i\Delta \delta}{\Delta pH} = 0.27 \cfrac{mol}{l\cdot pH}.
+\end{equation}    
 
 \end{document}
