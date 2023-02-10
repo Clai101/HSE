@@ -5,6 +5,8 @@
 \contentsline {section}{\numberline {4}Эксперимент}{5}{}%
 \contentsline {subsection}{\numberline {4.1}Часть}{5}{}%
 \contentsline {subsection}{\numberline {4.2}Часть}{5}{}%
-\contentsline {section}{\numberline {5}Эксперимент}{6}{}%
-\contentsline {section}{\numberline {6}Часть}{6}{}%
-\contentsline {section}{\numberline {7}Часть}{6}{}%
+\contentsline {section}{\numberline {5}Эксперимент}{7}{}%
+\contentsline {subsection}{\numberline {5.1}Часть}{7}{}%
+\contentsline {subsection}{\numberline {5.2}Часть}{7}{}%
+\contentsline {section}{\numberline {6}Эксперимент}{9}{}%
+\contentsline {section}{\numberline {7}Эксперимент}{10}{}%

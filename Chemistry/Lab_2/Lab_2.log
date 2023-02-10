@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.15)  10 FEB 2023 13:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.15)  10 FEB 2023 23:42
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -758,7 +758,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 ) (C:\Apps\MiTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
-) (C:\Apps\MiTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex)) (Lab_2.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux))
+) (C:\Apps\MiTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex)) (Lab_2.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux) (Ex_6/Ex_6.aux) (Ex_7/Ex_7.aux))
 \openout1 = `Lab_2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
@@ -857,74 +857,89 @@ Package pdftex.def Info: Ex_1/2.jpg  used on input line 37.
 \openout2 = `Ex_4/Ex_4.aux'.
 
  (Ex_4/Ex_4.tex
-<Ex_4/2.jpg, id=28, 845.1575pt x 450.68375pt>
+<Ex_4/1.jpg, id=29, 346.29375pt x 132.495pt>
+File: Ex_4/1.jpg Graphic file (type jpg)
+<use Ex_4/1.jpg>
+Package pdftex.def Info: Ex_4/1.jpg  used on input line 15.
+(pdftex.def)             Requested size: 527.57121pt x 201.87766pt.
+<Ex_4/2.jpg, id=30, 845.1575pt x 450.68375pt>
 File: Ex_4/2.jpg Graphic file (type jpg)
 <use Ex_4/2.jpg>
-Package pdftex.def Info: Ex_4/2.jpg  used on input line 25.
+Package pdftex.def Info: Ex_4/2.jpg  used on input line 30.
 (pdftex.def)             Requested size: 527.57121pt x 281.3328pt.
-) [5
-
-
-
- <./Ex_4/2.jpg>]
-\openout2 = `Ex_5/Ex_5.aux'.
-
- (Ex_5/Ex_5.tex
-<Ex_5/Cu_1.jpg, id=35, 372.39125pt x 405.515pt>
-File: Ex_5/Cu_1.jpg Graphic file (type jpg)
-<use Ex_5/Cu_1.jpg>
-Package pdftex.def Info: Ex_5/Cu_1.jpg  used on input line 15.
-(pdftex.def)             Requested size: 237.40543pt x 258.53249pt.
-<Ex_5/Co_1.jpg, id=36, 271.0125pt x 305.14pt>
-File: Ex_5/Co_1.jpg Graphic file (type jpg)
-<use Ex_5/Co_1.jpg>
-Package pdftex.def Info: Ex_5/Co_1.jpg  used on input line 20.
-(pdftex.def)             Requested size: 237.40543pt x 267.30878pt.
-
-
-LaTeX Warning: File `Ex_5/Cu_2.jpg' not found on input line 37.
-
-
-Ex_5/Ex_5.tex:37: Package pdftex.def Error: File `Ex_5/Cu_2.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.37 ...egraphics[width=\textwidth]{Ex_5/Cu_2.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 37.
-(C:\Apps\MiTeX\tex/latex/cyrillic\t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
-File: Ex_5/Co_1.jpg Graphic file (type jpg)
-<use Ex_5/Co_1.jpg>
-Package pdftex.def Info: Ex_5/Co_1.jpg  used on input line 42.
-(pdftex.def)             Requested size: 237.40543pt x 267.30878pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [6
+) [5
 
 
 
- <./Ex_5/Cu_1.jpg> <./Ex_5/Co_1.jpg>] [7] (Lab_2.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux)) ) 
+ <./Ex_4/1.jpg>] [6 <./Ex_4/2.jpg>]
+\openout2 = `Ex_5/Ex_5.aux'.
+
+ (Ex_5/Ex_5.tex
+<Ex_5/Cu_1.jpg, id=40, 372.39125pt x 405.515pt>
+File: Ex_5/Cu_1.jpg Graphic file (type jpg)
+<use Ex_5/Cu_1.jpg>
+Package pdftex.def Info: Ex_5/Cu_1.jpg  used on input line 16.
+(pdftex.def)             Requested size: 237.40543pt x 258.53249pt.
+<Ex_5/Co_1.jpg, id=41, 271.0125pt x 305.14pt>
+File: Ex_5/Co_1.jpg Graphic file (type jpg)
+<use Ex_5/Co_1.jpg>
+Package pdftex.def Info: Ex_5/Co_1.jpg  used on input line 22.
+(pdftex.def)             Requested size: 230.28354pt x 259.29105pt.
+<Ex_5/Cu_2.jpg, id=42, 318.18875pt x 523.9575pt>
+File: Ex_5/Cu_2.jpg Graphic file (type jpg)
+<use Ex_5/Cu_2.jpg>
+Package pdftex.def Info: Ex_5/Cu_2.jpg  used on input line 40.
+(pdftex.def)             Requested size: 185.17593pt x 304.92691pt.
+<Ex_5/Co_2.jpg, id=43, 350.30875pt x 450.68375pt>
+File: Ex_5/Co_2.jpg Graphic file (type jpg)
+<use Ex_5/Co_2.jpg>
+Package pdftex.def Info: Ex_5/Co_2.jpg  used on input line 46.
+(pdftex.def)             Requested size: 237.40543pt x 305.43623pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [7
+
+
+
+ <./Ex_5/Cu_1.jpg> <./Ex_5/Co_1.jpg>] [8 <./Ex_5/Cu_2.jpg> <./Ex_5/Co_2.jpg>]
+\openout2 = `Ex_6/Ex_6.aux'.
+
+ (Ex_6/Ex_6.tex) [9
+
+
+
+]
+\openout2 = `Ex_7/Ex_7.aux'.
+
+ (Ex_7/Ex_7.tex
+<Ex_7/crist.jpg, id=60, 961.5925pt x 1284.8pt>
+File: Ex_7/crist.jpg Graphic file (type jpg)
+<use Ex_7/crist.jpg>
+Package pdftex.def Info: Ex_7/crist.jpg  used on input line 12.
+(pdftex.def)             Requested size: 316.54594pt x 422.94627pt.
+) [10
+
+
+
+ <./Ex_7/crist.jpg>] (Lab_2.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux) (Ex_6/Ex_6.aux) (Ex_7/Ex_7.aux)) ) 
 Here is how much of TeX's memory you used:
- 22250 strings out of 475385
- 423949 string characters out of 2791452
- 704114 words of memory out of 3000000
- 43157 multiletter control sequences out of 15000+600000
- 487037 words of font info for 79 fonts, out of 8000000 for 9000
+ 22274 strings out of 475385
+ 424902 string characters out of 2791452
+ 709821 words of memory out of 3000000
+ 43178 multiletter control sequences out of 15000+600000
+ 486727 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,8n,89p,648b,558s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\latt1000.pk>{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0900.pk>{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk>{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol9.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on Lab_2.pdf (7 pages, 394013 bytes).
+ 84i,8n,89p,648b,566s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0900.pk>{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk>{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol7.pfb><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol9.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on Lab_2.pdf (10 pages, 578939 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
+ 266 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
