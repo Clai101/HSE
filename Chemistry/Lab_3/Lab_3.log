@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.15)  15 FEB 2023 14:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.15)  15 FEB 2023 16:52
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Mat/Documents/HSE/Chemistry/Lab_2/Lab_2.tex
-(c:/Users/Mat/Documents/HSE/Chemistry/Lab_2/Lab_2.tex
+**c:/Users/Mat/Documents/HSE/Chemistry/Lab_3/Lab_3.tex
+(c:/Users/Mat/Documents/HSE/Chemistry/Lab_3/Lab_3.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (C:\Apps\MiTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -758,8 +758,21 @@ Package pdftexcmds Info: \pdfdraftmode found.
 ) (C:\Apps\MiTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
-) (C:\Apps\MiTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex)) (Lab_2.aux)
-\openout1 = `Lab_2.aux'.
+) (C:\Apps\MiTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex)) (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux
+
+LaTeX Warning: Label `ex_2_1' multiply defined.
+
+
+LaTeX Warning: Label `ex_2_1' multiply defined.
+
+
+LaTeX Warning: Label `ex_2_1' multiply defined.
+
+
+LaTeX Warning: Label `ex_2_1' multiply defined.
+
+))
+\openout1 = `Lab_3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
 LaTeX Font Info:    ... okay on input line 112.
@@ -800,36 +813,11 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \th on input line 112.
- (Title.tex
-<FOPF.png, id=4, 524.6802pt x 525.6438pt>
-File: FOPF.png Graphic file (type png)
-<use FOPF.png>
-Package pdftex.def Info: FOPF.png  used on input line 155.
-(pdftex.def)             Requested size: 288.55899pt x 289.07999pt.
+\openout3 = `Lab_3.auxlock'.
 
-Overfull \hbox (80.44365pt too wide) in paragraph at lines 159--160
-[][] 
- []
-
-) [1
-
-]
-Overfull \vbox (101.57753pt too high) has occurred while \output is active []
-
- [2{C:/Users/Mat/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./FOPF.png>]
-\openout3 = `Lab_2.auxlock'.
-
- (Lab_2.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
- (C:\Apps\MiTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
- (C:\Apps\MiTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+ (Lab_3.toc)
 \tf@toc=\write4
-\openout4 = `Lab_2.toc'.
+\openout4 = `Lab_3.toc'.
 
  (C:\Apps\MiTeX\tex/latex/titlesec\titleps.sty
 
@@ -838,127 +826,83 @@ Package titlesec Warning: You are using an old interface for page styles
 (titlesec)                You could proceed but don't complain if you run
 (titlesec)                into errors.
 
-) [1]
+) [1
+
+{C:/Users/Mat/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 \openout2 = `Ex_1/Ex_1.aux'.
 
- (Ex_1/Ex_1.tex
-<Ex_1/1.jpg, id=19, 1085.05376pt x 237.88875pt>
-File: Ex_1/1.jpg Graphic file (type jpg)
-<use Ex_1/1.jpg>
-Package pdftex.def Info: Ex_1/1.jpg  used on input line 30.
-(pdftex.def)             Requested size: 527.57121pt x 115.6699pt.
-<Ex_1/2.jpg, id=20, 1112.155pt x 429.605pt>
-File: Ex_1/2.jpg Graphic file (type jpg)
-<use Ex_1/2.jpg>
-Package pdftex.def Info: Ex_1/2.jpg  used on input line 37.
-(pdftex.def)             Requested size: 527.57121pt x 203.79572pt.
-) [2
+ (Ex_1/Ex_1.tex) [2
 
- <./Ex_1/1.jpg> <./Ex_1/2.jpg>]
+]
 \openout2 = `Ex_2/Ex_2.aux'.
 
- (Ex_2/Ex_2.tex) [3
+ (Ex_2/Ex_2.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+ (C:\Apps\MiTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+ (C:\Apps\MiTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<Ex_2/1.jpg, id=14, 548.0475pt x 319.1925pt>
+File: Ex_2/1.jpg Graphic file (type jpg)
+<use Ex_2/1.jpg>
+Package pdftex.def Info: Ex_2/1.jpg  used on input line 21.
+(pdftex.def)             Requested size: 527.57121pt x 307.28825pt.
+) [3
 
 
 
-]
+ <./Ex_2/1.jpg>]
 \openout2 = `Ex_3/Ex_3.aux'.
 
- (Ex_3/Ex_3.tex) [4
-
-
-
-]
-\openout2 = `Ex_4/Ex_4.aux'.
-
- (Ex_4/Ex_4.tex
-<Ex_4/1.jpg, id=37, 346.29375pt x 132.495pt>
-File: Ex_4/1.jpg Graphic file (type jpg)
-<use Ex_4/1.jpg>
-Package pdftex.def Info: Ex_4/1.jpg  used on input line 15.
-(pdftex.def)             Requested size: 527.57121pt x 201.87766pt.
-<Ex_4/2.jpg, id=38, 845.1575pt x 450.68375pt>
-File: Ex_4/2.jpg Graphic file (type jpg)
-<use Ex_4/2.jpg>
-Package pdftex.def Info: Ex_4/2.jpg  used on input line 30.
-(pdftex.def)             Requested size: 527.57121pt x 281.3328pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [5
-
-
-
- <./Ex_4/1.jpg>] [6 <./Ex_4/2.jpg>]
-\openout2 = `Ex_5/Ex_5.aux'.
-
- (Ex_5/Ex_5.tex
-<Ex_5/Cu_1.jpg, id=49, 372.39125pt x 405.515pt>
-File: Ex_5/Cu_1.jpg Graphic file (type jpg)
-<use Ex_5/Cu_1.jpg>
-Package pdftex.def Info: Ex_5/Cu_1.jpg  used on input line 16.
-(pdftex.def)             Requested size: 237.40543pt x 258.53249pt.
-<Ex_5/Co_1.jpg, id=50, 271.0125pt x 305.14pt>
-File: Ex_5/Co_1.jpg Graphic file (type jpg)
-<use Ex_5/Co_1.jpg>
-Package pdftex.def Info: Ex_5/Co_1.jpg  used on input line 22.
-(pdftex.def)             Requested size: 230.28354pt x 259.29105pt.
-<Ex_5/Cu_2.jpg, id=51, 318.18875pt x 523.9575pt>
-File: Ex_5/Cu_2.jpg Graphic file (type jpg)
-<use Ex_5/Cu_2.jpg>
-Package pdftex.def Info: Ex_5/Cu_2.jpg  used on input line 40.
-(pdftex.def)             Requested size: 185.17593pt x 304.92691pt.
-<Ex_5/Co_2.jpg, id=52, 350.30875pt x 450.68375pt>
-File: Ex_5/Co_2.jpg Graphic file (type jpg)
-<use Ex_5/Co_2.jpg>
-Package pdftex.def Info: Ex_5/Co_2.jpg  used on input line 46.
-(pdftex.def)             Requested size: 237.40543pt x 305.43623pt.
-
+ (Ex_3/Ex_3.tex
+<Ex_3/Ex_3_1_1.jpg, id=24, 816.04875pt x 232.87pt>
+File: Ex_3/Ex_3_1_1.jpg Graphic file (type jpg)
+<use Ex_3/Ex_3_1_1.jpg>
+Package pdftex.def Info: Ex_3/Ex_3_1_1.jpg  used on input line 7.
+(pdftex.def)             Requested size: 527.57121pt x 150.55708pt.
+<Ex_3/Ex_3_1_2.jpg, id=25, 1027.84pt x 225.84375pt>
+File: Ex_3/Ex_3_1_2.jpg Graphic file (type jpg)
+<use Ex_3/Ex_3_1_2.jpg>
+Package pdftex.def Info: Ex_3/Ex_3_1_2.jpg  used on input line 17.
+(pdftex.def)             Requested size: 527.57121pt x 115.92313pt.
+<Ex_3/Ex_3_2_1.jpg, id=26, 1067.99pt x 235.88126pt>
+File: Ex_3/Ex_3_2_1.jpg Graphic file (type jpg)
+<use Ex_3/Ex_3_2_1.jpg>
+Package pdftex.def Info: Ex_3/Ex_3_2_1.jpg  used on input line 29.
+(pdftex.def)             Requested size: 527.57121pt x 116.52582pt.
+<Ex_3/Ex_3_2_2.jpg, id=27, 1112.155pt x 387.4475pt>
+File: Ex_3/Ex_3_2_2.jpg Graphic file (type jpg)
+<use Ex_3/Ex_3_2_2.jpg>
+Package pdftex.def Info: Ex_3/Ex_3_2_2.jpg  used on input line 40.
+(pdftex.def)             Requested size: 527.57121pt x 183.79707pt.
+)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [7
+[4
 
 
 
- <./Ex_5/Cu_1.jpg> <./Ex_5/Co_1.jpg>] [8 <./Ex_5/Cu_2.jpg> <./Ex_5/Co_2.jpg>]
-\openout2 = `Ex_6/Ex_6.aux'.
+ <./Ex_3/Ex_3_1_1.jpg> <./Ex_3/Ex_3_1_2.jpg> <./Ex_3/Ex_3_2_1.jpg>] [5 <./Ex_3/Ex_3_2_2.jpg>] (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux))
 
- (Ex_6/Ex_6.tex) [9
-
-
-
-]
-\openout2 = `Ex_7/Ex_7.aux'.
-
- (Ex_7/Ex_7.tex
-<Ex_7/crist.jpg, id=68, 961.5925pt x 1284.8pt>
-File: Ex_7/crist.jpg Graphic file (type jpg)
-<use Ex_7/crist.jpg>
-Package pdftex.def Info: Ex_7/crist.jpg  used on input line 12.
-(pdftex.def)             Requested size: 316.54594pt x 422.94627pt.
-) [10
-
-
-
- <./Ex_7/crist.jpg>] (Lab_2.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux) (Ex_6/Ex_6.aux) (Ex_7/Ex_7.aux))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 23840 strings out of 475385
- 458297 string characters out of 2791452
- 2975489 words of memory out of 3000000
- 44753 multiletter control sequences out of 15000+600000
- 487533 words of font info for 79 fonts, out of 8000000 for 9000
+ 22073 strings out of 475385
+ 420142 string characters out of 2791452
+ 701451 words of memory out of 3000000
+ 43033 multiletter control sequences out of 15000+600000
+ 479258 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,8n,89p,648b,10712s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0900.pk>{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk>{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol7.pfb><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol9.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on Lab_2.pdf (12 pages, 1069272 bytes).
+ 84i,11n,89p,648b,266s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on Lab_3.pdf (5 pages, 270667 bytes).
 PDF statistics:
- 289 PDF objects out of 1000 (max. 8388607)
+ 156 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 63 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
