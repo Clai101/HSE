@@ -1,4 +1,8 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{\numberline {1}Эксперемент}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Часть}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Часть}{2}{}%
 \contentsline {section}{\numberline {2}Эксперемент}{3}{}%
 \contentsline {section}{\numberline {3}Эксперемент}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Часть}{4}{}%
+\contentsline {subsection}{\numberline {3.2}Часть}{4}{}%

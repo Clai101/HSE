@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.15)  15 FEB 2023 16:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.1.15)  17 FEB 2023 06:15
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -758,20 +758,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 ) (C:\Apps\MiTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
-) (C:\Apps\MiTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex)) (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux
-
-LaTeX Warning: Label `ex_2_1' multiply defined.
-
-
-LaTeX Warning: Label `ex_2_1' multiply defined.
-
-
-LaTeX Warning: Label `ex_2_1' multiply defined.
-
-
-LaTeX Warning: Label `ex_2_1' multiply defined.
-
-))
+) (C:\Apps\MiTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzexternalshared.code.tex)) (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux))
 \openout1 = `Lab_3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
@@ -815,7 +802,15 @@ Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \th on input line 112.
 \openout3 = `Lab_3.auxlock'.
 
- (Lab_3.toc)
+ (Lab_3.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (C:\Apps\MiTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (C:\Apps\MiTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
 \tf@toc=\write4
 \openout4 = `Lab_3.toc'.
 
@@ -837,15 +832,7 @@ Package titlesec Warning: You are using an old interface for page styles
 \openout2 = `Ex_2/Ex_2.aux'.
 
  (Ex_2/Ex_2.tex
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
- (C:\Apps\MiTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
- (C:\Apps\MiTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-<Ex_2/1.jpg, id=14, 548.0475pt x 319.1925pt>
+<Ex_2/1.jpg, id=21, 548.0475pt x 319.1925pt>
 File: Ex_2/1.jpg Graphic file (type jpg)
 <use Ex_2/1.jpg>
 Package pdftex.def Info: Ex_2/1.jpg  used on input line 21.
@@ -858,27 +845,27 @@ Package pdftex.def Info: Ex_2/1.jpg  used on input line 21.
 \openout2 = `Ex_3/Ex_3.aux'.
 
  (Ex_3/Ex_3.tex
-<Ex_3/Ex_3_1_1.jpg, id=24, 816.04875pt x 232.87pt>
+<Ex_3/Ex_3_1_1.jpg, id=26, 816.04875pt x 232.87pt>
 File: Ex_3/Ex_3_1_1.jpg Graphic file (type jpg)
 <use Ex_3/Ex_3_1_1.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_1_1.jpg  used on input line 7.
+Package pdftex.def Info: Ex_3/Ex_3_1_1.jpg  used on input line 8.
 (pdftex.def)             Requested size: 527.57121pt x 150.55708pt.
-<Ex_3/Ex_3_1_2.jpg, id=25, 1027.84pt x 225.84375pt>
+<Ex_3/Ex_3_1_2.jpg, id=27, 1027.84pt x 225.84375pt>
 File: Ex_3/Ex_3_1_2.jpg Graphic file (type jpg)
 <use Ex_3/Ex_3_1_2.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_1_2.jpg  used on input line 17.
+Package pdftex.def Info: Ex_3/Ex_3_1_2.jpg  used on input line 18.
 (pdftex.def)             Requested size: 527.57121pt x 115.92313pt.
-<Ex_3/Ex_3_2_1.jpg, id=26, 1067.99pt x 235.88126pt>
+<Ex_3/Ex_3_2_1.jpg, id=28, 1067.99pt x 235.88126pt>
 File: Ex_3/Ex_3_2_1.jpg Graphic file (type jpg)
 <use Ex_3/Ex_3_2_1.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_2_1.jpg  used on input line 29.
+Package pdftex.def Info: Ex_3/Ex_3_2_1.jpg  used on input line 31.
 (pdftex.def)             Requested size: 527.57121pt x 116.52582pt.
-<Ex_3/Ex_3_2_2.jpg, id=27, 1112.155pt x 387.4475pt>
+<Ex_3/Ex_3_2_2.jpg, id=29, 1112.155pt x 387.4475pt>
 File: Ex_3/Ex_3_2_2.jpg Graphic file (type jpg)
 <use Ex_3/Ex_3_2_2.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_2_2.jpg  used on input line 40.
+Package pdftex.def Info: Ex_3/Ex_3_2_2.jpg  used on input line 42.
 (pdftex.def)             Requested size: 527.57121pt x 183.79707pt.
-)
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -886,23 +873,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
- <./Ex_3/Ex_3_1_1.jpg> <./Ex_3/Ex_3_1_2.jpg> <./Ex_3/Ex_3_2_1.jpg>] [5 <./Ex_3/Ex_3_2_2.jpg>] (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux))
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+ <./Ex_3/Ex_3_1_1.jpg> <./Ex_3/Ex_3_1_2.jpg> <./Ex_3/Ex_3_2_1.jpg>]) [5 <./Ex_3/Ex_3_2_2.jpg>] (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux)) ) 
 Here is how much of TeX's memory you used:
- 22073 strings out of 475385
- 420142 string characters out of 2791452
- 701451 words of memory out of 3000000
- 43033 multiletter control sequences out of 15000+600000
- 479258 words of font info for 56 fonts, out of 8000000 for 9000
+ 22085 strings out of 475385
+ 420292 string characters out of 2791452
+ 703463 words of memory out of 3000000
+ 43044 multiletter control sequences out of 15000+600000
+ 480077 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,11n,89p,648b,266s stack positions out of 10000i,1000n,20000p,200000b,80000s
-{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on Lab_3.pdf (5 pages, 270667 bytes).
+ 84i,11n,89p,648b,283s stack positions out of 10000i,1000n,20000p,200000b,80000s
+{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{C:/Apps/MiTeX/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1000.pk> <C:\Users\Mat\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol10.pfb><C:/Apps/MiTeX/fonts/type1/public/mnsymbol/MnSymbol7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Apps/MiTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on Lab_3.pdf (5 pages, 301141 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
+ 183 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
