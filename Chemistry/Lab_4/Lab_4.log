@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  24 MAR 2023 03:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  24 MAR 2023 06:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/mat/Documents/HSE/Chemistry/Lab_3/Lab_3.tex
-(/home/mat/Documents/HSE/Chemistry/Lab_3/Lab_3.tex
+**/home/mat/Documents/HSE/Chemistry/Lab_4/Lab_4.tex
+(/home/mat/Documents/HSE/Chemistry/Lab_4/Lab_4.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/home/mat/.miktex/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -534,25 +534,25 @@ Package babel Info: Importing font and identification data for russian
 ) (/home/mat/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux))
-\openout1 = `Lab_3.aux'.
+) (Lab_4.aux)
+\openout1 = `Lab_4.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
  (/home/mat/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count283
@@ -599,20 +599,13 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \th on input line 108.
- (Lab_3.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
- (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
- (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-\tf@toc=\write3
-\openout3 = `Lab_3.toc'.
+LaTeX Info: Redefining \th on input line 107.
 
- (/home/mat/.miktex/texmfs/install/tex/latex/titlesec/titleps.sty
+No file Lab_4.toc.
+\tf@toc=\write3
+\openout3 = `Lab_4.toc'.
+
+(/home/mat/.miktex/texmfs/install/tex/latex/titlesec/titleps.sty
 
 Package titlesec Warning: You are using an old interface for page styles
 (titlesec)                (or you forgot the package option 'pagestyles').
@@ -624,66 +617,153 @@ Package titlesec Warning: You are using an old interface for page styles
 {/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
 \openout2 = `Ex_1/Ex_1.aux'.
 
- (Ex_1/Ex_1.tex) [2
+ (Ex_1/Ex_1.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
+ (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
+ (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Ex_1/Ex_1.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Ex_1/Ex_1.tex:16: Missing } inserted.
+<inserted text> 
+                }
+l.16 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Ex_1/Ex_1.tex:16: Missing } inserted.
+<inserted text> 
+                }
+l.16 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Ex_1/Ex_1.tex:16: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.16 
+     
+I'm guessing that you meant to end an alignment here.
+
+Ex_1/Ex_1.tex:16: Missing { inserted.
+<inserted text> 
+                {
+l.16 
+     
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+Ex_1/Ex_1.tex:16: Missing $ inserted.
+<inserted text> 
+                $
+l.16 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Ex_1/Ex_1.tex:16: Missing $$ inserted.
+<to be read again> 
+                   \tex_par:D 
+l.16 
+     
+Displays can use special alignments (like \eqalignno)
+only if nothing but the alignment itself is between $$'s.
+
+Ex_1/Ex_1.tex:17: Misplaced alignment tab character &.
+\reserved@a ->&
+               
+l.17 \end{eqnarray}
+                   
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Ex_1/Ex_1.tex:17: Misplaced \cr.
+\@@eqncr ...l \@eqnswtrue \global \@eqcnt \z@ \cr 
+                                                  
+l.17 \end{eqnarray}
+                   
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Ex_1/Ex_1.tex:17: Extra }, or forgotten \endgroup.
+\endeqnarray ->\@@eqncr \egroup 
+                                \global \advance \c@equation \m@ne $$\@ignor...
+l.17 \end{eqnarray}
+                   
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Ex_1/Ex_1.tex:17: Missing $ inserted.
+<inserted text> 
+                $
+l.17 \end{eqnarray}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Ex_1/Ex_1.tex:17: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.17 \end{eqnarray}
+                   
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+) [2
 
 ]
 \openout2 = `Ex_2/Ex_2.aux'.
 
- (Ex_2/Ex_2.tex
-<Ex_2/1.jpg, id=18, 548.0475pt x 319.1925pt>
-File: Ex_2/1.jpg Graphic file (type jpg)
-<use Ex_2/1.jpg>
-Package pdftex.def Info: Ex_2/1.jpg  used on input line 21.
-(pdftex.def)             Requested size: 527.57121pt x 307.28825pt.
-) [3
 
-
-
- <./Ex_2/1.jpg>]
+No file Ex_2/Ex_2.tex.
 \openout2 = `Ex_3/Ex_3.aux'.
 
- (Ex_3/Ex_3.tex
-<Ex_3/Ex_3_1_1.jpg, id=23, 816.04875pt x 232.87pt>
-File: Ex_3/Ex_3_1_1.jpg Graphic file (type jpg)
-<use Ex_3/Ex_3_1_1.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_1_1.jpg  used on input line 8.
-(pdftex.def)             Requested size: 527.57121pt x 150.55708pt.
-<Ex_3/Ex_3_1_2.jpg, id=24, 1027.84pt x 225.84375pt>
-File: Ex_3/Ex_3_1_2.jpg Graphic file (type jpg)
-<use Ex_3/Ex_3_1_2.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_1_2.jpg  used on input line 18.
-(pdftex.def)             Requested size: 527.57121pt x 115.92313pt.
-<Ex_3/Ex_3_2_1.jpg, id=25, 1067.99pt x 235.88126pt>
-File: Ex_3/Ex_3_2_1.jpg Graphic file (type jpg)
-<use Ex_3/Ex_3_2_1.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_2_1.jpg  used on input line 30.
-(pdftex.def)             Requested size: 527.57121pt x 116.52582pt.
-<Ex_3/Ex_3_2_2.jpg, id=26, 1112.155pt x 387.4475pt>
-File: Ex_3/Ex_3_2_2.jpg Graphic file (type jpg)
-<use Ex_3/Ex_3_2_2.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_2_2.jpg  used on input line 42.
-(pdftex.def)             Requested size: 527.57121pt x 183.79707pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4
-
-
-
- <./Ex_3/Ex_3_1_1.jpg> <./Ex_3/Ex_3_1_2.jpg> <./Ex_3/Ex_3_2_1.jpg>]) [5 <./Ex_3/Ex_3_2_2.jpg>] (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux)) ) 
+No file Ex_3/Ex_3.tex.
+(Lab_4.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux)) ) 
 Here is how much of TeX's memory you used:
- 10898 strings out of 476335
- 170662 string characters out of 5793669
- 1856388 words of memory out of 5000000
- 31135 multiletter control sequences out of 15000+600000
+ 10834 strings out of 476335
+ 169384 string characters out of 5793669
+ 1853388 words of memory out of 5000000
+ 31089 multiletter control sequences out of 15000+600000
  523105 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,504b,284s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on Lab_3.pdf (5 pages, 301315 bytes).
+ 72i,6n,77p,504b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on Lab_4.pdf (2 pages, 99454 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
+ 118 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

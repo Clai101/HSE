@@ -43,10 +43,6 @@
 \usepackage[english, russian]{babel} % доступные языки.
 
 
-%tikz:
-\usepackage{tikz} % tikz
-\usetikzlibrary{decorations.text} % позволяет делать текст вдоль кривой.
-\usetikzlibrary{external} % позволяет кэшировать рисунки tikz.
 
 %Отступы и поля:
 %размеры страницы А4 11.7x8.3in
@@ -111,20 +107,6 @@
 
 \begin{document}
 
-\pagestyle{empty}
-\oddsidemargin=-1.18in
-\topmargin=-1.5in
-
-%\begin{titlepage}
-%\input{Title}
-%\end{titlepage}
-
-\oddsidemargin=-0.5in
-\topmargin=-0.5in
-\pagestyle{plain}
-
-\newpage
-\tikzexternalize
 \tableofcontents
 \newpagestyle{main}{
 \setfootrule{0.4pt}
