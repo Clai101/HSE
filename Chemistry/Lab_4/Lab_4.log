@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  24 MAR 2023 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  24 MAR 2023 22:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -534,7 +534,7 @@ Package babel Info: Importing font and identification data for russian
 ) (/home/mat/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (Lab_4.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux))
+) (Lab_4.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux))
 \openout1 = `Lab_4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
@@ -600,15 +600,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Info: Redefining \th on input line 107.
- (Lab_4.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
- (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
- (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+ (Lab_4.toc)
 \tf@toc=\write3
 \openout3 = `Lab_4.toc'.
 
@@ -624,29 +616,70 @@ Package titlesec Warning: You are using an old interface for page styles
 {/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
 \openout2 = `Ex_1/Ex_1.aux'.
 
- (Ex_1/Ex_1.tex) [2
+ (Ex_1/Ex_1.tex
+<Ex_1/s.jpg, id=8, 1284.8pt x 855.195pt>
+File: Ex_1/s.jpg Graphic file (type jpg)
+<use Ex_1/s.jpg>
+Package pdftex.def Info: Ex_1/s.jpg  used on input line 5.
+(pdftex.def)             Requested size: 527.57121pt x 351.16724pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+ (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+ (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [2
 
-]
+ <./Ex_1/s.jpg>]
+<Ex_1/plot.png, id=23, 1152.305pt x 848.16875pt>
+File: Ex_1/plot.png Graphic file (type png)
+<use Ex_1/plot.png>
+Package pdftex.def Info: Ex_1/plot.png  used on input line 54.
+(pdftex.def)             Requested size: 527.57121pt x 388.33754pt.
+) [3 <./Ex_1/plot.png>]
 \openout2 = `Ex_2/Ex_2.aux'.
 
+ (Ex_2/Ex_2.tex
+LaTeX Font Info:    Trying to load font information for U+euf on input line 7.
+ (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)) [4
 
-No file Ex_2/Ex_2.tex.
+
+
+]
 \openout2 = `Ex_3/Ex_3.aux'.
 
-No file Ex_3/Ex_3.tex.
-(Lab_4.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux)) ) 
+ (Ex_3/Ex_3.tex) [5
+
+
+
+]
+\openout2 = `Ex_4/Ex_4.aux'.
+
+ (Ex_4/Ex_4.tex) [6
+
+
+
+]
+\openout2 = `Ex_5/Ex_5.aux'.
+
+
+No file Ex_5/Ex_5.tex.
+(Lab_4.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux)) ) 
 Here is how much of TeX's memory you used:
- 10845 strings out of 476335
- 169676 string characters out of 5793669
- 1853388 words of memory out of 5000000
- 31092 multiletter control sequences out of 15000+600000
- 523105 words of font info for 61 fonts, out of 8000000 for 9000
+ 10940 strings out of 476335
+ 172107 string characters out of 5793669
+ 1862388 words of memory out of 5000000
+ 31158 multiletter control sequences out of 15000+600000
+ 522994 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,504b,262s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on Lab_4.pdf (2 pages, 107695 bytes).
+ 72i,13n,77p,504b,270s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/latxfont/line10.pfb>
+Output written on Lab_4.pdf (6 pages, 256717 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
+ 194 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
