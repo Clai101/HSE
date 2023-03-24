@@ -1,6 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1679607335 "/home/mat/Documents/HSE/Chemistry/Lab_4/Lab_4.tex" "Lab_4.pdf" "Lab_4" 1679607336 2
+["pdflatex"] 1679640265 "/home/mat/Documents/HSE/Chemistry/Lab_4/Lab_4.tex" "Lab_4.pdf" "Lab_4" 1679640266 0
   "/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1679606399 89470 71d9926615af2e7496c290d29d290fc0 ""
+  "/home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk" 1679596013 23468 4d61948ad7aacfa8a14d41ee6619e4f8 ""
   "/home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1679596011 29472 ea2776997b96b215d649b08c802da1c4 ""
   "/home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk" 1679596014 36852 4bcb2dbe00ccea862cee6a5843eadc17 ""
   "/home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk" 1679596012 22324 cc9ba59d410de6d3b9d33fadade86e50 ""
@@ -108,15 +109,15 @@
   "/home/mat/.miktex/texmfs/install/tex/latex/tools/verbatim.sty" 1679594899 7392 f19cdc68ae9f1190dbd54eee6d29fb7c ""
   "/home/mat/.miktex/texmfs/install/tex/latex/wrapfig/wrapfig.sty" 1679595950 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/home/mat/Documents/HSE/Chemistry/Lab_4/Lab_4.tex" 1679606437 5678 e38756787287c12939d8fa41bc14fcb0 ""
-  "Ex_1/Ex_1.aux" 1679607336 805 738722b85d8009153feb818462407543 "pdflatex"
-  "Ex_1/Ex_1.tex" 1679607213 413 0ab6041510cd47612c93394b8fbc32da ""
-  "Ex_2/Ex_2.aux" 1679607336 592 eee8bc921839cd54678260eabc7fa4bd "pdflatex"
+  "Ex_1/Ex_1.aux" 1679640265 805 738722b85d8009153feb818462407543 "pdflatex"
+  "Ex_1/Ex_1.tex" 1679640264 523 9943da476fd8c0d03c681da454ff9533 ""
+  "Ex_2/Ex_2.aux" 1679640265 592 eee8bc921839cd54678260eabc7fa4bd "pdflatex"
   "Ex_2/Ex_2.tex" 0 -1 0 ""
-  "Ex_3/Ex_3.aux" 1679607336 592 f1a81063c8db50084408fa237423ca54 "pdflatex"
+  "Ex_3/Ex_3.aux" 1679640265 592 f1a81063c8db50084408fa237423ca54 "pdflatex"
   "Ex_3/Ex_3.tex" 0 -1 0 ""
-  "Lab_4.aux" 1679607336 201 5548c848e10d24b7d502c43485a06a78 "pdflatex"
+  "Lab_4.aux" 1679640265 201 5548c848e10d24b7d502c43485a06a78 "pdflatex"
   "Lab_4.tex" 1679606437 5678 e38756787287c12939d8fa41bc14fcb0 ""
-  "Lab_4.toc" 1679607336 161 77ee03ae270f3748561c6129ed1614d3 "pdflatex"
+  "Lab_4.toc" 1679640265 161 77ee03ae270f3748561c6129ed1614d3 "pdflatex"
   (generated)
   "Ex_1/Ex_1.aux"
   "Ex_2/Ex_2.aux"
