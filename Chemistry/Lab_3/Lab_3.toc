@@ -7,3 +7,14 @@
 \contentsline {subsection}{\numberline {3.1}Часть}{4}{}%
 \contentsline {subsection}{\numberline {3.2}Часть}{4}{}%
 \contentsline {subsection}{\numberline {3.3}Часть}{5}{}%
+\contentsline {section}{\numberline {4}Эксперемент}{6}{}%
+\contentsline {section}{\numberline {5}Эксперемент}{7}{}%
+\contentsline {subsection}{\numberline {5.1}Часть}{7}{}%
+\contentsline {subsection}{\numberline {5.2}Часть}{7}{}%
+\contentsline {section}{\numberline {6}Эксперемент}{8}{}%
+\contentsline {subsection}{\numberline {6.1}Часть}{8}{}%
+\contentsline {subsection}{\numberline {6.2}Часть}{8}{}%
+\contentsline {subsection}{\numberline {6.3}Часть}{8}{}%
+\contentsline {section}{\numberline {7}Эксперемент}{9}{}%
+\contentsline {subsection}{\numberline {7.1}Часть}{9}{}%
+\contentsline {subsection}{\numberline {7.2}Часть}{9}{}%

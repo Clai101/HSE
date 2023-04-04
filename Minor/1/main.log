@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  4 APR 2023 02:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  4 APR 2023 12:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/mat/Documents/HSE/Chemistry/Lab_3/Lab_3.tex
-(/home/mat/Documents/HSE/Chemistry/Lab_3/Lab_3.tex
+**/home/mat/Documents/HSE/Minor/1/main.tex
+(/home/mat/Documents/HSE/Minor/1/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/home/mat/.miktex/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -534,25 +534,25 @@ Package babel Info: Importing font and identification data for russian
 ) (/home/mat/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux) (Ex_6/Ex_6.aux) (Ex_7/Ex_7.aux))
-\openout1 = `Lab_3.aux'.
+) (main.aux (Task_1/Task_1.aux))
+\openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
  (/home/mat/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count283
@@ -599,18 +599,10 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \th on input line 108.
- (Lab_3.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
- (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
- (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+LaTeX Info: Redefining \th on input line 109.
+ (main.toc)
 \tf@toc=\write3
-\openout3 = `Lab_3.toc'.
+\openout3 = `main.toc'.
 
  (/home/mat/.miktex/texmfs/install/tex/latex/titlesec/titleps.sty
 
@@ -622,96 +614,31 @@ Package titlesec Warning: You are using an old interface for page styles
 ) [1
 
 {/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
-\openout2 = `Ex_1/Ex_1.aux'.
+\openout2 = `Task_1/Task_1.aux'.
 
- (Ex_1/Ex_1.tex) [2
+ (Task_1/Task_1.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
+ (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
+ (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)) [2
 
-]
-\openout2 = `Ex_2/Ex_2.aux'.
-
- (Ex_2/Ex_2.tex
-<Ex_2/1.jpg, id=18, 548.0475pt x 319.1925pt>
-File: Ex_2/1.jpg Graphic file (type jpg)
-<use Ex_2/1.jpg>
-Package pdftex.def Info: Ex_2/1.jpg  used on input line 21.
-(pdftex.def)             Requested size: 527.57121pt x 307.28825pt.
-) [3
-
-
-
- <./Ex_2/1.jpg>]
-\openout2 = `Ex_3/Ex_3.aux'.
-
- (Ex_3/Ex_3.tex
-<Ex_3/Ex_3_1_1.jpg, id=23, 816.04875pt x 232.87pt>
-File: Ex_3/Ex_3_1_1.jpg Graphic file (type jpg)
-<use Ex_3/Ex_3_1_1.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_1_1.jpg  used on input line 8.
-(pdftex.def)             Requested size: 527.57121pt x 150.55708pt.
-<Ex_3/Ex_3_1_2.jpg, id=24, 1027.84pt x 225.84375pt>
-File: Ex_3/Ex_3_1_2.jpg Graphic file (type jpg)
-<use Ex_3/Ex_3_1_2.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_1_2.jpg  used on input line 18.
-(pdftex.def)             Requested size: 527.57121pt x 115.92313pt.
-<Ex_3/Ex_3_2_1.jpg, id=25, 1067.99pt x 235.88126pt>
-File: Ex_3/Ex_3_2_1.jpg Graphic file (type jpg)
-<use Ex_3/Ex_3_2_1.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_2_1.jpg  used on input line 30.
-(pdftex.def)             Requested size: 527.57121pt x 116.52582pt.
-<Ex_3/Ex_3_2_2.jpg, id=26, 1112.155pt x 387.4475pt>
-File: Ex_3/Ex_3_2_2.jpg Graphic file (type jpg)
-<use Ex_3/Ex_3_2_2.jpg>
-Package pdftex.def Info: Ex_3/Ex_3_2_2.jpg  used on input line 42.
-(pdftex.def)             Requested size: 527.57121pt x 183.79707pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4
-
-
-
- <./Ex_3/Ex_3_1_1.jpg> <./Ex_3/Ex_3_1_2.jpg> <./Ex_3/Ex_3_2_1.jpg>]) [5 <./Ex_3/Ex_3_2_2.jpg>]
-\openout2 = `Ex_4/Ex_4.aux'.
-
- (Ex_4/Ex_4.tex) [6
-
-
-
-]
-\openout2 = `Ex_5/Ex_5.aux'.
-
- (Ex_5/Ex_5.tex) [7
-
-
-
-]
-\openout2 = `Ex_6/Ex_6.aux'.
-
- (Ex_6/Ex_6.tex) [8
-
-
-
-]
-\openout2 = `Ex_7/Ex_7.aux'.
-
- (Ex_7/Ex_7.tex) [9
-
-
-
-] (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux) (Ex_6/Ex_6.aux) (Ex_7/Ex_7.aux)) ) 
+] (main.aux (Task_1/Task_1.aux)) ) 
 Here is how much of TeX's memory you used:
- 11025 strings out of 476335
- 174438 string characters out of 5793669
- 1857388 words of memory out of 5000000
- 31223 multiletter control sequences out of 15000+600000
- 523630 words of font info for 64 fonts, out of 8000000 for 9000
+ 10784 strings out of 476335
+ 167899 string characters out of 5793669
+ 1856388 words of memory out of 5000000
+ 31046 multiletter control sequences out of 15000+600000
+ 522286 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,504b,284s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolS.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on Lab_3.pdf (9 pages, 327407 bytes).
+ 72i,14n,77p,495b,264s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on main.pdf (2 pages, 61639 bytes).
 PDF statistics:
- 220 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
