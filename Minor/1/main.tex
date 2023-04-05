@@ -36,6 +36,7 @@
 %\usepackage{showkeys} % показывает label формул над их номером.
 %\usepackage{fancyhdr} % удобное создание верхних и нижних колонтитулов.
 %\usepackage{titlesec} % еще одно создание верхних и нижних колонтитулов
+\usepackage{hyperref} %ссылки
 
 %Пакеты шрифтов, кодировок. НЕ МЕНЯТЬ РАСПОЛОЖЕНИЕ.
 \usepackage[utf8]{inputenc} % кодировка символов.
@@ -57,7 +58,7 @@
 %Скобочки
 \newcommand{\inrad}[1]{\left( #1 \right)}
 \newcommand{\inner}[1]{\left( #1 \right)}
-\newcommand{\infig}[1]{\left{ #1 \right}}
+\newcommand{\infig}[1]{\left\{ #1 \right\}}
 \newcommand{\insqr}[1]{\left[ #1 \right]}
 \newcommand{\ave}[1]{\left\langle #1 \right\rangle}
 
@@ -108,6 +109,7 @@
 
 \begin{document}
 
+
 \tableofcontents
 \newpagestyle{main}{
 \setfootrule{0.4pt}
@@ -115,6 +117,12 @@
 \pagestyle{main}
 
 \include{Task_1/Task_1.tex}
+\include{Task_2/Task_2.tex}
+\include{Task_3/Task_3.tex}
+\include{Task_4/Task_4.tex}
+\include{Task_5/Task_5.tex}
+\include{Task_6/Task_6.tex}
+\include{Task_7/Task_7.tex}
 
 
 
