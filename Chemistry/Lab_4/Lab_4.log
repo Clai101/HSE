@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  24 MAR 2023 22:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  6 APR 2023 20:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -651,35 +651,50 @@ File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 ]
 \openout2 = `Ex_3/Ex_3.aux'.
 
- (Ex_3/Ex_3.tex) [5
+ (Ex_3/Ex_3.tex
+<Ex_3/Ex_3_1.jpg, id=34, 1284.8pt x 723.70375pt>
+File: Ex_3/Ex_3_1.jpg Graphic file (type jpg)
+<use Ex_3/Ex_3_1.jpg>
+Package pdftex.def Info: Ex_3/Ex_3_1.jpg  used on input line 4.
+(pdftex.def)             Requested size: 527.57121pt x 297.1732pt.
+) [5
 
 
 
-]
+ <./Ex_3/Ex_3_1.jpg>]
 \openout2 = `Ex_4/Ex_4.aux'.
 
- (Ex_4/Ex_4.tex) [6
+ (Ex_4/Ex_4.tex
+<Ex_4/Ex_4_1.jpg, id=38, 1284.8pt x 961.5925pt>
+File: Ex_4/Ex_4_1.jpg Graphic file (type jpg)
+<use Ex_4/Ex_4_1.jpg>
+Package pdftex.def Info: Ex_4/Ex_4_1.jpg  used on input line 19.
+(pdftex.def)             Requested size: 527.57121pt x 219.60446pt.
+<Ex_4/Ex_4_2.jpg, id=40, 961.5925pt x 1284.8pt>
+File: Ex_4/Ex_4_2.jpg Graphic file (type jpg)
+<use Ex_4/Ex_4_2.jpg>
+Package pdftex.def Info: Ex_4/Ex_4_2.jpg  used on input line 25.
+(pdftex.def)             Requested size: 527.57121pt x 236.59123pt.
+) [6
 
 
 
-]
+ <./Ex_4/Ex_4_1.jpg> <./Ex_4/Ex_4_2.jpg>]
 \openout2 = `Ex_5/Ex_5.aux'.
 
-
-No file Ex_5/Ex_5.tex.
-(Lab_4.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux)) ) 
+ (Ex_5/Ex_5.tex) (Lab_4.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux) (Ex_4/Ex_4.aux) (Ex_5/Ex_5.aux)) ) 
 Here is how much of TeX's memory you used:
- 10940 strings out of 476335
- 172107 string characters out of 5793669
+ 10966 strings out of 476335
+ 172590 string characters out of 5793669
  1862388 words of memory out of 5000000
- 31158 multiletter control sequences out of 15000+600000
+ 31179 multiletter control sequences out of 15000+600000
  522994 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,13n,77p,504b,270s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,13n,77p,504b,278s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/latxfont/line10.pfb>
-Output written on Lab_4.pdf (6 pages, 256717 bytes).
+Output written on Lab_4.pdf (6 pages, 447230 bytes).
 PDF statistics:
- 194 PDF objects out of 1000 (max. 8388607)
+ 205 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
