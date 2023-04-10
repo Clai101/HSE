@@ -923,7 +923,15 @@ INPUT ./Task_6/Task_6.tex
 INPUT Task_6/Task_6.tex
 INPUT ./Task_6/Task_6.tex
 INPUT Task_6/Task_6.tex
+INPUT ./Task_7/Task_7.tex
 OUTPUT Task_7/Task_7.aux
+INPUT ./Task_7/Task_7.tex
+INPUT ./Task_7/Task_7.tex
+INPUT ./Task_7/Task_7.tex
+INPUT ./Task_7/Task_7.tex
+INPUT Task_7/Task_7.tex
+INPUT ./Task_7/Task_7.tex
+INPUT Task_7/Task_7.tex
 INPUT main.aux
 INPUT ./Task_1/Task_1.aux
 INPUT Task_1/Task_1.aux

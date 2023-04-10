@@ -5,3 +5,4 @@
 \contentsline {section}{\numberline {4}Задание}{5}{section.4}%
 \contentsline {section}{\numberline {5}Задание}{6}{section.5}%
 \contentsline {section}{\numberline {6}Задание}{7}{section.6}%
+\contentsline {section}{\numberline {7}Задание}{8}{section.7}%
