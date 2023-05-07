@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  11 APR 2023 18:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  14 APR 2023 20:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -905,6 +905,23 @@ Package hyperref Info: Link coloring ON on input line 122.
 \openout4 = `Lab_2.out'.
 
 LaTeX Info: Redefining \th on input line 122.
+ (Title.tex
+<FOPF.png, id=30, 524.6802pt x 525.6438pt>
+File: FOPF.png Graphic file (type png)
+<use FOPF.png>
+Package pdftex.def Info: FOPF.png  used on input line 155.
+(pdftex.def)             Requested size: 288.55899pt x 289.07999pt.
+
+Overfull \hbox (80.44365pt too wide) in paragraph at lines 159--160
+[][] 
+ []
+
+) [1
+
+]
+Overfull \vbox (101.57753pt too high) has occurred while \output is active []
+
+ [2{/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map} <./FOPF.png>]
 \openout3 = `Lab_2.auxlock'.
 
  (Lab_2.toc
@@ -926,9 +943,12 @@ Package titlesec Warning: You are using an old interface for page styles
 (titlesec)                You could proceed but don't complain if you run
 (titlesec)                into errors.
 
-) [1
-
-{/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
+)
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.144 \include{Ex_1/Ex_1.tex}
+                              [1]
 \openout2 = `Ex_1/Ex_1.aux'.
 
  (Ex_1/Ex_1.tex
@@ -936,7 +956,7 @@ LaTeX Font Info:    Trying to load font information for U+euf on input line 5.
  (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 )
-<Ex_1/Task_1_1.png, id=46, 462.528pt x 346.896pt>
+<Ex_1/Task_1_1.png, id=55, 462.528pt x 346.896pt>
 File: Ex_1/Task_1_1.png Graphic file (type png)
 <use Ex_1/Task_1_1.png>
 Package pdftex.def Info: Ex_1/Task_1_1.png  used on input line 17.
@@ -966,18 +986,23 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 22.
 
-[2
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 
+      [2
 
  <./Ex_1/Task_1_1.png>]) [3]
 \openout2 = `Ex_2/Ex_2.aux'.
 
  (Ex_2/Ex_2.tex
-<Ex_2/Task_2_1_1.png, id=69, 462.528pt x 346.896pt>
+<Ex_2/Task_2_1_1.png, id=77, 462.528pt x 346.896pt>
 File: Ex_2/Task_2_1_1.png Graphic file (type png)
 <use Ex_2/Task_2_1_1.png>
 Package pdftex.def Info: Ex_2/Task_2_1_1.png  used on input line 10.
 (pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
-<Ex_2/Task_2_1_2.png, id=71, 462.528pt x 346.896pt>
+<Ex_2/Task_2_1_2.png, id=79, 462.528pt x 346.896pt>
 File: Ex_2/Task_2_1_2.png Graphic file (type png)
 <use Ex_2/Task_2_1_2.png>
 Package pdftex.def Info: Ex_2/Task_2_1_2.png  used on input line 18.
@@ -986,7 +1011,7 @@ Package pdftex.def Info: Ex_2/Task_2_1_2.png  used on input line 18.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Ex_2/Task_2_2_1.png, id=73, 462.528pt x 346.896pt>
+<Ex_2/Task_2_2_1.png, id=81, 462.528pt x 346.896pt>
 File: Ex_2/Task_2_2_1.png Graphic file (type png)
 <use Ex_2/Task_2_2_1.png>
 Package pdftex.def Info: Ex_2/Task_2_2_1.png  used on input line 27.
@@ -1003,17 +1028,17 @@ Package rerunfilecheck Info: File `Lab_2.out' has not changed.
 (rerunfilecheck)             Checksum: EFFD695F3269ADEA026EB3DE0B9D1EC3;1123.
  ) 
 Here is how much of TeX's memory you used:
- 28493 strings out of 476335
- 526027 string characters out of 5793669
- 1858388 words of memory out of 5000000
- 48385 multiletter control sequences out of 15000+600000
- 533285 words of font info for 97 fonts, out of 8000000 for 9000
+ 30079 strings out of 476335
+ 559978 string characters out of 5793669
+ 3493388 words of memory out of 5000000
+ 49967 multiletter control sequences out of 15000+600000
+ 534091 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,89p,641b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb>
-Output written on Lab_2.pdf (6 pages, 228688 bytes).
+ 84i,7n,89p,641b,10716s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb>
+Output written on Lab_2.pdf (8 pages, 718742 bytes).
 PDF statistics:
- 284 PDF objects out of 1000 (max. 8388607)
+ 316 PDF objects out of 1000 (max. 8388607)
  17 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 

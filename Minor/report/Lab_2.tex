@@ -1,4 +1,5 @@
-\documentclass[a4paper]{article}
+\documentclass{beamer}
+\usetheme{Boadilla}
 
 %Пакеты для математических символов:
 \usepackage{amsmath} % американское математическое сообщество.
@@ -114,35 +115,19 @@
 }
 \newcommand\tab[1][0.51cm]{\hspace*{#1}}
 \newcommand\difh[2]{\frac{\partial #1}{\partial #2}}
-\newcommand{\messageforpeople}[1]{HSE Faculty of Physics \ \ HSE Faculty of Physics HSE Faculty of Physics \ \ HSE Faculty of Physics HSE Faculty of Physics \ \ HSE Faculty of Physics HSE Faculty of Physics \ \ HSE Faculty of Physics HSE Faculty of Physics \ \ HSE Faculty of Physics HSE Faculty of Physics \ \ HSE Faculty of Physics HSE Faculty of Physics \ \ HSE Faculty of Physics HSE Faculty of Physics \ \ HSE Faculty of Physics }
 
 
 \numberwithin{equation}{section}
 
 \begin{document}
 
-\pagestyle{empty}
-\oddsidemargin=-1.18in
-\topmargin=-1.5in
+\begin{frame}
+    \frametitle{Title}
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit, 
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+\end{frame}
 
-\begin{titlepage}
-\input{Title}
-\end{titlepage}
 
-\oddsidemargin=-0.5in
-\topmargin=-0.5in
-\pagestyle{plain}
-
-\newpage
-\tikzexternalize
-\tableofcontents
-\newpagestyle{main}{
-\setfootrule{0.4pt}
-\setfoot{}{\thepage}{\sectiontitle}}
-\pagestyle{main}
-
-\include{Ex_1/Ex_1.tex}
-\include{Ex_2/Ex_2.tex}
 
 
 
