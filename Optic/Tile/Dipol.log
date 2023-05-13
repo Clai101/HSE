@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  14 APR 2023 20:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.8)  13 MAY 2023 15:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/mat/Documents/HSE/Optic/Lab_1/Lab_2.tex
-(/home/mat/Documents/HSE/Optic/Lab_1/Lab_2.tex
+**/home/mat/Documents/HSE/Optic/Tile/Dipol.tex
+(/home/mat/Documents/HSE/Optic/Tile/Dipol.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/home/mat/.miktex/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -219,74 +219,6 @@ slashbox style by K.Yasuoka, May 1993.
 ) (/home/mat/.miktex/texmfs/install/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box57
-) (/home/mat/.miktex/texmfs/install/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box58
-\beforetitleunit=\skip56
-\aftertitleunit=\skip57
-\ttl@plus=\dimen155
-\ttl@minus=\dimen156
-\ttl@toksa=\toks30
-\titlewidth=\dimen157
-\titlewidthlast=\dimen158
-\titlewidthfirst=\dimen159
-) (/home/mat/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/home/mat/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks31
-) (/home/mat/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/home/mat/.miktex/texmfs/install/tex/latex/graphics/trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/home/mat/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 107.
- (/home/mat/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen160
-\Gin@req@width=\dimen161
-) (/home/mat/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
-Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
- (/home/mat/.miktex/texmfs/install/tex/latex/caption/caption.sty
-Package: caption 2023/03/12 v3.6j Customizing captions (AR)
- (/home/mat/.miktex/texmfs/install/tex/latex/caption/caption3.sty
-Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
-\caption@tempdima=\dimen162
-\captionmargin=\dimen163
-\caption@leftmargin=\dimen164
-\caption@rightmargin=\dimen165
-\caption@width=\dimen166
-\caption@indent=\dimen167
-\caption@parindent=\dimen168
-\caption@hangindent=\dimen169
-Package caption Info: Standard document class detected.
-)
-\c@caption@flags=\count275
-\c@continuedfloat=\count276
-)
-Package caption Info: New subtype `subfigure' on input line 239.
-\c@subfigure=\count277
-Package caption Info: New subtype `subtable' on input line 239.
-\c@subtable=\count278
-) (/home/mat/.miktex/texmfs/install/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen170
-\WF@size=\dimen171
-\c@WF@wrappedlines=\count279
-\WF@box=\box59
-\WF@everypar=\toks32
-Package: wrapfig 2003/01/31  v 3.6
-) (/home/mat/.miktex/texmfs/install/tex/latex/cancel/cancel.sty
-Package: cancel 2013/04/12 v2.2 Cancel math terms
-) (/home/mat/.miktex/texmfs/install/tex/latex/t2/misccorr.sty
-Package: misccorr 1999/09/23 v0.1 misc corrections for russian typesetting
- (/home/mat/.miktex/texmfs/install/tex/latex/tools/enumerate.sty
-Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks33
-)
-\c@rlistctr=\count280
 ) (/home/mat/.miktex/texmfs/install/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
  (/home/mat/.miktex/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
@@ -301,6 +233,9 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
+) (/home/mat/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks30
 ) (/home/mat/.miktex/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ) (/home/mat/.miktex/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
@@ -322,11 +257,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (/home/mat/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count281
+\c@section@level=\count275
 )
-\@linkdim=\dimen172
-\Hy@linkcounter=\count282
-\Hy@pagecounter=\count283
+\@linkdim=\dimen155
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
  (/home/mat/.miktex/texmfs/install/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -336,7 +271,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (/home/mat/.miktex/texmfs/install/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count284
+\Hy@SavedSpaceFactor=\count278
  (/home/mat/.miktex/texmfs/install/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -349,21 +284,21 @@ Package hyperref Info: Plain pages OFF on input line 4192.
 Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count285
+\c@Hy@tempcnt=\count279
  (/home/mat/.miktex/texmfs/install/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen173
+\XeTeXLinkMargin=\dimen156
  (/home/mat/.miktex/texmfs/install/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/home/mat/.miktex/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count286
-\Field@Width=\dimen174
-\Fld@charsize=\dimen175
+\Fld@menulength=\count280
+\Field@Width=\dimen157
+\Fld@charsize=\dimen158
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -375,9 +310,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count287
-\c@Item=\count288
-\c@Hfootnote=\count289
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/home/mat/.miktex/texmfs/install/tex/latex/hyperref/hpdftex.def
@@ -386,8 +321,8 @@ File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count290
-\c@bookmark@seq@number=\count291
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
  (/home/mat/.miktex/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (/home/mat/.miktex/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
@@ -395,10 +330,76 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip58
+\Hy@SectionHShift=\skip56
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 47.
- (/home/mat/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package hyperref Info: Option `colorlinks' set `true' on input line 33.
+ (/home/mat/.miktex/texmfs/install/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box58
+\beforetitleunit=\skip57
+\aftertitleunit=\skip58
+\ttl@plus=\dimen159
+\ttl@minus=\dimen160
+\ttl@toksa=\toks31
+\titlewidth=\dimen161
+\titlewidthlast=\dimen162
+\titlewidthfirst=\dimen163
+) (/home/mat/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/home/mat/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/home/mat/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/home/mat/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/home/mat/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+) (/home/mat/.miktex/texmfs/install/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+ (/home/mat/.miktex/texmfs/install/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (/home/mat/.miktex/texmfs/install/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
+\caption@tempdima=\dimen166
+\captionmargin=\dimen167
+\caption@leftmargin=\dimen168
+\caption@rightmargin=\dimen169
+\caption@width=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count286
+\c@continuedfloat=\count287
+Package caption Info: hyperref package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 239.
+\c@subfigure=\count288
+Package caption Info: New subtype `subtable' on input line 239.
+\c@subtable=\count289
+) (/home/mat/.miktex/texmfs/install/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen174
+\WF@size=\dimen175
+\c@WF@wrappedlines=\count290
+\WF@box=\box59
+\WF@everypar=\toks32
+Package: wrapfig 2003/01/31  v 3.6
+) (/home/mat/.miktex/texmfs/install/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+) (/home/mat/.miktex/texmfs/install/tex/latex/t2/misccorr.sty
+Package: misccorr 1999/09/23 v0.1 misc corrections for russian typesetting
+ (/home/mat/.miktex/texmfs/install/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks33
+)
+\c@rlistctr=\count291
+) (/home/mat/.miktex/texmfs/install/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks34
 \inpenc@posthook=\toks35
@@ -645,250 +646,54 @@ Package babel Info: Importing font and identification data for russian
 ) (/home/mat/.miktex/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (/home/mat/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty (/home/mat/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty (/home/mat/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty (/home/mat/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks36
-\pgfutil@tempdima=\dimen177
-\pgfutil@tempdimb=\dimen178
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box60
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex (/home/mat/.miktex/texmfs/install/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-Package: pgf 2023-01-15 v3.1.10 (3.1.10)
- (/home/mat/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty (/home/mat/.miktex/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty (/home/mat/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
- (/home/mat/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks37
-\pgfkeys@temptoks=\toks38
- (/home/mat/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks39
-))
-\pgf@x=\dimen179
-\pgf@y=\dimen180
-\pgf@xa=\dimen181
-\pgf@ya=\dimen182
-\pgf@xb=\dimen183
-\pgf@yb=\dimen184
-\pgf@xc=\dimen185
-\pgf@yc=\dimen186
-\pgf@xd=\dimen187
-\pgf@yd=\dimen188
-\w@pgf@writea=\write3
-\r@pgf@reada=\read4
-\c@pgf@counta=\count294
-\c@pgf@countb=\count295
-\c@pgf@countc=\count296
-\c@pgf@countd=\count297
-\t@pgf@toka=\toks40
-\t@pgf@tokb=\toks41
-\t@pgf@tokc=\toks42
-\pgf@sys@id@count=\count298
- (/home/mat/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
-)
-Driver file for pgf: pgfsys-pdftex.def
- (/home/mat/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (/home/mat/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count299
-\pgfsyssoftpath@bigbuffer@items=\count300
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/home/mat/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+) (Dipol.aux)
+\openout1 = `Dipol.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+ (/home/mat/.miktex/texmfs/install/tex/latex/graphics/color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
  (/home/mat/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 227.
- (/home/mat/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
-Package xcolor Info: Model `RGB' extended on input line 1369.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen189
-\pgfmath@count=\count301
-\pgfmath@box=\box61
-\pgfmath@toks=\toks43
-\pgfmath@stack@operand=\toks44
-\pgfmath@stack@operation=\toks45
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count302
-)) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfint.code.tex) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen190
-\pgf@picmaxx=\dimen191
-\pgf@picminy=\dimen192
-\pgf@picmaxy=\dimen193
-\pgf@pathminx=\dimen194
-\pgf@pathmaxx=\dimen195
-\pgf@pathminy=\dimen196
-\pgf@pathmaxy=\dimen197
-\pgf@xx=\dimen198
-\pgf@xy=\dimen199
-\pgf@yx=\dimen256
-\pgf@yy=\dimen257
-\pgf@zx=\dimen258
-\pgf@zy=\dimen259
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen260
-\pgf@path@lasty=\dimen261
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen262
-\pgf@shorten@start@additional=\dimen263
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box62
-\pgf@hbox=\box63
-\pgf@layerbox@main=\box64
-\pgf@picture@serial@count=\count303
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen264
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen265
-\pgf@pt@y=\dimen266
-\pgf@pt@temp=\dimen267
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen268
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen269
-\pgf@sys@shading@range@num=\count304
-\pgf@shadingcount=\count305
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box65
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box66
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/home/mat/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen270
-\pgf@nodesepend=\dimen271
-) (/home/mat/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
-)) (/home/mat/.miktex/texmfs/install/tex/latex/pgf/utilities/pgffor.sty (/home/mat/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty (/home/mat/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/home/mat/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty (/home/mat/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen272
-\pgffor@skip=\dimen273
-\pgffor@stack=\toks46
-\pgffor@toks=\toks47
-)) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2023-01-15 v3.1.10 (3.1.10)
- (/home/mat/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
-File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count306
-\pgfplotmarksize=\dimen274
-)
-\tikz@lastx=\dimen275
-\tikz@lasty=\dimen276
-\tikz@lastxsaved=\dimen277
-\tikz@lastysaved=\dimen278
-\tikz@lastmovetox=\dimen279
-\tikz@lastmovetoy=\dimen280
-\tikzleveldistance=\dimen281
-\tikzsiblingdistance=\dimen282
-\tikz@figbox=\box67
-\tikz@figbox@bg=\box68
-\tikz@tempbox=\box69
-\tikz@tempbox@bg=\box70
-\tikztreelevel=\count307
-\tikznumberofchildren=\count308
-\tikznumberofcurrentchild=\count309
-\tikz@fig@count=\count310
- (/home/mat/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count311
-\pgfmatrixcurrentcolumn=\count312
-\pgf@matrix@numberofcolumns=\count313
-)
-\tikz@expandcount=\count314
- (/home/mat/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.text.code.tex (/home/mat/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/home/mat/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen283
-\pgfdecoratedremainingdistance=\dimen284
-\pgfdecoratedinputsegmentcompleteddistance=\dimen285
-\pgfdecoratedinputsegmentremainingdistance=\dimen286
-\pgf@decorate@distancetomove=\dimen287
-\pgf@decorate@repeatstate=\count315
-\pgfdecorationsegmentamplitude=\dimen288
-\pgfdecorationsegmentlength=\dimen289
-)
-\tikz@lib@dec@box=\box71
-) (/home/mat/.miktex/texmfs/install/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.text.code.tex
-\pgf@lib@dec@text@box=\box72
-)
-\tikz@lib@dec@te@box=\box73
-) (/home/mat/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/libraries/tikzlibraryexternal.code.tex (/home/mat/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzexternalshared.code.tex)) (Lab_2.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux))
-\openout1 = `Lab_2.aux'.
+Package color Info: Driver file: pdftex.def on input line 149.
+ (/home/mat/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx))
+Package hyperref Info: Link coloring ON on input line 125.
+ (Dipol.out) (Dipol.out)
+\@outlinefile=\write3
+\openout3 = `Dipol.out'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
  (/home/mat/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count316
-\scratchdimen=\dimen290
-\scratchbox=\box74
-\nofMPsegments=\count317
-\nofMParguments=\count318
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count319
-\MPscratchDim=\dimen291
-\MPnumerator=\count320
-\makeMPintoPDFobject=\count321
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count294
+\scratchdimen=\dimen177
+\scratchbox=\box60
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen178
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks37
 ) (/home/mat/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -896,35 +701,10 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: hyperref package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 122.
- (Lab_2.out) (Lab_2.out)
-\@outlinefile=\write4
-\openout4 = `Lab_2.out'.
-
-LaTeX Info: Redefining \th on input line 122.
- (Title.tex
-<FOPF.png, id=30, 524.6802pt x 525.6438pt>
-File: FOPF.png Graphic file (type png)
-<use FOPF.png>
-Package pdftex.def Info: FOPF.png  used on input line 155.
-(pdftex.def)             Requested size: 288.55899pt x 289.07999pt.
-
-Overfull \hbox (80.44365pt too wide) in paragraph at lines 159--160
-[][] 
- []
-
-) [1
-
-]
-Overfull \vbox (101.57753pt too high) has occurred while \output is active []
-
- [2{/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map} <./FOPF.png>]
-\openout3 = `Lab_2.auxlock'.
-
- (Lab_2.toc
+LaTeX Info: Redefining \th on input line 125.
+ (Dipol.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
  (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -933,8 +713,8 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
  (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ))
-\tf@toc=\write5
-\openout5 = `Lab_2.toc'.
+\tf@toc=\write4
+\openout4 = `Dipol.toc'.
 
  (/home/mat/.miktex/texmfs/install/tex/latex/titlesec/titleps.sty
 
@@ -943,102 +723,28 @@ Package titlesec Warning: You are using an old interface for page styles
 (titlesec)                You could proceed but don't complain if you run
 (titlesec)                into errors.
 
-)
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.144 \include{Ex_1/Ex_1.tex}
-                              [1]
-\openout2 = `Ex_1/Ex_1.aux'.
+) [1
 
- (Ex_1/Ex_1.tex
-LaTeX Font Info:    Trying to load font information for U+euf on input line 5.
+{/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}]
+LaTeX Font Info:    Trying to load font information for U+euf on input line 196.
  (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-)
-<Ex_1/Task_1_1.png, id=55, 462.528pt x 346.896pt>
-File: Ex_1/Task_1_1.png Graphic file (type png)
-<use Ex_1/Task_1_1.png>
-Package pdftex.def Info: Ex_1/Task_1_1.png  used on input line 17.
-(pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 22.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cfrac ' on input line 22.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\lambda' on input line 22.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cfrac ' on input line 22.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\lambda' on input line 22.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 22.
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.41 
-      [2
-
- <./Ex_1/Task_1_1.png>]) [3]
-\openout2 = `Ex_2/Ex_2.aux'.
-
- (Ex_2/Ex_2.tex
-<Ex_2/Task_2_1_1.png, id=77, 462.528pt x 346.896pt>
-File: Ex_2/Task_2_1_1.png Graphic file (type png)
-<use Ex_2/Task_2_1_1.png>
-Package pdftex.def Info: Ex_2/Task_2_1_1.png  used on input line 10.
-(pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
-<Ex_2/Task_2_1_2.png, id=79, 462.528pt x 346.896pt>
-File: Ex_2/Task_2_1_2.png Graphic file (type png)
-<use Ex_2/Task_2_1_2.png>
-Package pdftex.def Info: Ex_2/Task_2_1_2.png  used on input line 18.
-(pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Ex_2/Task_2_2_1.png, id=81, 462.528pt x 346.896pt>
-File: Ex_2/Task_2_2_1.png Graphic file (type png)
-<use Ex_2/Task_2_2_1.png>
-Package pdftex.def Info: Ex_2/Task_2_2_1.png  used on input line 27.
-(pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [4
-
-
-
- <./Ex_2/Task_2_1_1.png>] [5 <./Ex_2/Task_2_1_2.png>] [6 <./Ex_2/Task_2_2_1.png>] (Lab_2.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux))
-Package rerunfilecheck Info: File `Lab_2.out' has not changed.
-(rerunfilecheck)             Checksum: EFFD695F3269ADEA026EB3DE0B9D1EC3;1123.
+) [2{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}] [3] (Dipol.aux)
+Package rerunfilecheck Info: File `Dipol.out' has not changed.
+(rerunfilecheck)             Checksum: 55838E705C3877DC22BF26D28B39BB65;2092.
  ) 
 Here is how much of TeX's memory you used:
- 30079 strings out of 476335
- 559978 string characters out of 5793669
- 3493388 words of memory out of 5000000
- 49967 multiletter control sequences out of 15000+600000
- 534091 words of font info for 98 fonts, out of 8000000 for 9000
+ 17007 strings out of 476340
+ 264110 string characters out of 5793713
+ 1873388 words of memory out of 5000000
+ 37149 multiletter control sequences out of 15000+600000
+ 525424 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,7n,89p,641b,10716s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc} </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb>
-Output written on Lab_2.pdf (8 pages, 718742 bytes).
+ 75i,15n,77p,499b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol5.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on Dipol.pdf (3 pages, 179442 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 500000)
- 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 335 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
