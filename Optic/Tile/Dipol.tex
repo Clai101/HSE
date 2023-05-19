@@ -54,7 +54,8 @@
 \usepackage[T1, T2A]{fontenc} % кодировка шрифта.
 \usepackage[english, russian]{babel} % доступные языки.
 
-
+\usepackage{xcolor}
+\definecolor{mycolor}{RGB}{244,228,215}
 
 %Отступы и поля:
 %размеры страницы А4 11.7x8.3in
@@ -124,11 +125,23 @@
 
 \begin{document}
 
+\begin{flushright}
+    Выполнил:
+
+    Карибджанов Матвей
+    
+    Группа БФЗ211
+
+    Тема:
+
+    Поле излучения диполя
+\end{flushright}
 \tableofcontents
 \newpagestyle{main}{
 \setfootrule{0.4pt}
 \setfoot{}{\thepage}{\sectiontitle}}
 \pagestyle{main}
+\pagecolor{mycolor}
 
 
 
@@ -150,7 +163,7 @@
 \end{equation}
 Где $f(r)-$ некоторая вынуждающая сила.
 
-В обоих задачe в результате ускоренного движения диполь излучает 
+В задачe в результате ускоренного движения диполь излучает 
 электро-магнитные волны, котрые мы ищем.
 
 
@@ -184,6 +197,11 @@
     \end{matrix}
     \label{eq:2.5}
 \end{eqnarray}
+\begin{figure}[h]
+    \centering
+    \includegraphics[trim={0 0 0 0},clip,width=\textwidth]{sh.jpg}
+    \label{pict}
+\end{figure}
 
 \subsection{Вектор пойнтинга}
 Учитывая ортогональность векторов $H$ и $E$, также то что в 
@@ -197,6 +215,7 @@
     \label{eq:2.7}
 \end{equation}
 
+\subsection{Частотное пространство}
 
 Часто удобно работаь в спектральном разложении поэтому посмотрим 
 на зависимомти в фурье образа. Напрямую из переобразования формул 
@@ -216,12 +235,14 @@
 получим:
 \begin{equation}
     d\mathfrak{I} = \cfrac{c}{2\pi} \abs{H}^2R^2do
+    \label{eq:if}
 \end{equation}
 
 
 
 \section{Решение для линейноного осцилятора}
 \subsection{Приближения и уточнение формулировки}
+
 Во первых вспомнм что:
 \begin{equation}
     p  = \cfrac{mv}{\sqrt{1 - \cfrac{v^2}{c^2}}}.
@@ -233,21 +254,22 @@
 поэтому предлагаю решать в приближении $v/c \ll 1$.
 Тогда известное нам уравнение:
 \begin{equation}
-    \cfrac{dp}{dt} = e \vec E + \cfrac{e}{c} \insqr{\vec v, \vec H},
+    \cfrac{dp}{dt} = e  E + \cfrac{e}{c} \insqr{ v,  H},
 \end{equation}
 выродится в: 
 \begin{equation}
-    m\cfrac{dv}{dt} = e \vec E.
+    m\cfrac{dv}{dt} = e  E.
 \end{equation}
 
 Будем рассматривать падение на диполь монохроматической волны. 
 Пока что мне не нужна точная формула, а только одно очень 
 удобное свойство:
 \begin{equation}
-    \mathfrak F\insqr{\vec E (t)}(\omega) = \vec E (\omega).
+    \mathfrak F\insqr{ E (t)}(\omega) =  E (\omega).
 \end{equation}
 
 \subsection{Диф. уравнение}
+ 
 Запишем наше уравнение:
 \begin{equation}
     m \ddot r + mk\dot r + m\omega_0^2r = e E(t).
@@ -258,21 +280,64 @@
 \end{equation}
 Вспомним что в излучение диполя основной вклад дает компонента $\ddot d$,
 А так как так как центральный заряд не подвижен и закреплен в начале СО 
-то $\vec d = e\vec r \implies \ddot{{\vec{d}}} = e\ddot{\vec{r}}$. Тогда 
+то $ d = e r \implies \ddot{{{d}}} = e\ddot{{r}}$. Тогда 
 нам нужно искать:
 \begin{equation}
-    r = \cfrac{eE(\omega)}{m\inner{\omega_0^2 - i\omega k - \omega^2 }} .
+    r = \cfrac{eE(\omega)}{m\inner{\omega_0^2 - i\omega k - \omega^2 }}.
 \end{equation}
 \begin{equation}
-    \mathfrak F \insqr{\ddot d}(\omega)= -e\omega^2 r = -\cfrac{e^2\omega^2E(\omega)}{m\inner{\omega_0^2 - i\omega k - \omega^2 }} .
+    \mathfrak F \insqr{\ddot d}(\omega)= -e\omega^2 r = 
+    -\cfrac{e\omega^2E(\omega)}{m\inner{\omega_0^2 - i\omega k 
+    - \omega^2 }}.
+    \label{eq:ddot_d}
 \end{equation}
 
-Монохроматическая волна задется как $E = A \exp{ikx - i\omega t}$:
+Получим распределение полей:
 \begin{equation}
-    E = \cfrac{e^2}{mc^2r}\int_\re -\cfrac{\omega^2E(\omega)}{\inner{\omega_0^2 - i\omega k - \omega^2 }} \exp{-i\omega t} \cfrac{d\omega}{2\pi}
+    E = \cfrac{e}{mc^2R}\insqr{\int_\re
+    \cfrac{\omega^2E_\omega}{\inner{\omega_0^2 - i\omega k - \omega^2 }}\exp{-it\omega}\cfrac{d\omega}{2\pi}, n},
+    \label{eq:fild}
+\end{equation}
+\begin{equation}
+    H = \insqr{E, n}.
 \end{equation}
 
-\subsection{Дифференциальное сечение рассеяния}
+\subsection{Распределение интенсивности}
+
+Пользуясь формулой \ref{eq:if} получим:
+\begin{equation}
+    d\mathfrak{I} = \cfrac{1}{4\pi c^3}\insqr{\ddot{d}, n}^2do
+    = \cfrac{1}{4\pi c^3}\ddot d^2_\omega \sin^2\phi do.
+\end{equation}
+Подставляем решение \ref{eq:ddot_d}:
+\begin{equation}
+    d\mathfrak{I} = \cfrac{1}{4\pi c^3} \abs{\cfrac{eE(\omega)}{m\inner{\omega_0^2 
+    - i\omega k - \omega^2 }}}^2 \sin^2\phi do.
+\end{equation}
+Проинтегрируем по всем углам, использовав соотношение $do = 2 \pi \sin{\phi} d\phi$:
+\begin{equation}
+    \mathfrak{I} = \cfrac{2}{3c^3} \ddot{d}^2_\omega.
+\end{equation}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[trim={0 0 0 0},clip,width=0.5\textwidth]{omega.jpg}
+    \label{pict}
+\end{figure}
+\begin{figure}[h]
+    \centering
+    \includegraphics[trim={0 0 0 0},clip,width=0.5\textwidth]{phi.jpg}
+    \label{pict}
+\end{figure}
+
+
+\section{Вывод}
+
+Как мы видим для знания поля нужна информация о параметрах диполя. 
+Например для велечины поля по формуле \ref{eq:fild}. Для решении 
+не использовались вектора Герца, было очень удобно пользоваться 
+формализмом векоторного потенциала.
+
 
 
 

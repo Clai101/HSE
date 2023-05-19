@@ -1,0 +1,76 @@
+\section{Эксперемент}
+\subsection{Пропускающая решетка}
+Рассмотрим:
+\begin{equation}
+    \insqr{\cfrac{\sin\inner{\cfrac{kb}{2}\sin{x}}}{\cfrac{kb}{2}\sin{x}}
+    \cfrac{\sin\inner{N\cfrac{kd}{2}\sin{x}}}{\sin\inner{\cfrac{kd}{2}\sin{x}}}}^2
+\end{equation}
+
+Из определения $d, b$ заметим что $d \geq b$ откуда следует, что
+\begin{equation}
+    \insqr{\cfrac{\sin\inner{N\cfrac{kd}{2}\sin{x}}}{\sin\inner{\cfrac{kd}{2}\sin{x}}}}^2
+\end{equation}
+
+будет огибающей. Следовательно максимумы будут задаваться 
+
+\begin{equation}
+    \insqr{\cfrac{\sin\inner{\cfrac{kb}{2}\sin{x}}}{\cfrac{kb}{2}\sin{x}}}^2
+\end{equation}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[trim={0 0 0 0},clip,width=\textwidth]{Ex_2/ex_2_1.png}
+    \caption{}
+    \label{Task_1_1}
+\end{figure}
+
+$d$ нахожу как среднее по формуле:
+\begin{equation}
+    d\sin{x} = n\lambda
+\end{equation}
+где $x$ это расположения максимумов, а $n$ номер соответствующего максимума.
+
+$b$ это будет 
+\begin{equation}
+    b\sin{x} = \lambda,
+\end{equation}
+так как 
+\begin{equation}
+    \sin\inner{\cfrac{kb}{2}\sin{x}} = 0
+\end{equation}
+
+В итоге я получил $d = 5.16 nm, b = 1.63 nm$
+
+\subsection{Концентрирующая решетка}
+
+С концентрирующей решеткой ситуция похожая, можем заметить что гибающая это 
+\begin{equation}
+    \inner{\cfrac{\sin \inner{\cfrac{kd}{2}\cos{\gamma} 
+    \inner{\sin \inner{x - \gamma} - \sin{\gamma}}}}
+    {\cfrac{kd}{2}\cos{\gamma} 
+    \inner{\sin \inner{x - \gamma} - \sin{\gamma}}}}^2 .
+\end{equation}
+Эта функция похожа на ту что была для пропускающей решотки но теперь 
+максимум огибающей сдвинут относительно центра. Выведу данные на график:
+\begin{figure}[h]
+    \centering
+    \includegraphics[trim={0 0 0 0},clip,width=\textwidth]{Ex_2/ex_2_dat.png}
+    \caption{}
+    \label{Task_1_1}
+\end{figure}
+Заметим что огибающая дает наибольший влад в 0, 1 максимумы. Но всетики 1 максимум 
+значительно больше значит уже сейчас можно оценить $\gamma$:
+\begin{equation}
+    \sin(x - \gamma) - \sin \gamma = 0 \implies x = 2\gamma
+\end{equation}
+$\gamma \approx 0.14$.d можно нати также как и в предыдущем эксперементе, 
+$d \approx 2.45\cdot 10^{-6}m$.
+
+теперь юолее точно подберем $\gamma$, получим $\gamma \approx 0.09$ 
+\begin{figure}[h]
+    \centering
+    \includegraphics[trim={0 0 0 0},clip,width=\textwidth]{Ex_2/ex_2_approx.png}
+    \caption{}
+    \label{Task_1_1}
+\end{figure}
+
