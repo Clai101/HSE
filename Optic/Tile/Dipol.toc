@@ -1,12 +1,12 @@
 \babel@toc {russian}{}\relax 
 \contentsline {section}{\numberline {1}Постановка задачи}{1}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Линейный осцилятор}{1}{subsection.1.1}%
 \contentsline {section}{\numberline {2}Излучение диполя}{1}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Уравнение Максвела}{1}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Вектор пойнтинга}{2}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Частотное пространство}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.1}Монохроматические волны}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Запаздывающие потенциалы}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Вектор пойнтинга}{2}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Частотное пространство}{2}{subsection.2.4}%
 \contentsline {section}{\numberline {3}Решение для линейноного осцилятора}{3}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Приближения и уточнение формулировки}{3}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Диф. уравнение}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Диф. уравнение}{4}{subsection.3.2}%
 \contentsline {subsection}{\numberline {3.3}Распределение интенсивности}{4}{subsection.3.3}%
 \contentsline {section}{\numberline {4}Вывод}{4}{section.4}%

@@ -146,11 +146,7 @@
 
 
 \section{Постановка задачи}
-
-Так так точные условия задачи не поставленны предлагаю рассмотреть 2 случая.
-
-\subsection{Линейный осцилятор}
-Первый рассеяние электромагнитной волны на линйном осциляторе, эту модель 
+Рассеяние электромагнитной волны на линйном осциляторе, эту модель 
 часто применяют для описания рассения на молекулах воздуха, с последующим 
 выводом Реллевского рассеяния. 
 
@@ -168,7 +164,7 @@
 
 
 \section{Излучение диполя}
-\subsection{Уравнение Максвела}
+\subsection{Монохроматические волны}
 В первую очередь надо вспомнить что для ЭМ (электромагнитный) волн 
 ур. Максвелла преобразуются в:
 \begin{gather}
@@ -179,12 +175,50 @@
 \end{gather} 
 По определению:
 \begin{eqnarray}
-    H &=& \rot A
+    H = \rot A; \ 
+    E = -\cfrac{1}{c}\cfrac{\partial A}{\partial t} - \grad \phi .
+    \label{eq:fil}
 \end{eqnarray} 
-Учтя запаздывание потенциала, в следствии чего $A\inner{t - \cfrac{x}{c}}$:
+Воспользуемся нормировеой Лоренца $\partial_i A^i = 0$, \ref{eq:fil} перейдет в:
+\begin{eqnarray}
+    H = \rot A; \ E = -\cfrac{1}{c}\cfrac{\partial A}{\partial t}.
+\end{eqnarray} 
+Учитывая запаздывание потенциала, в следствии чего $A\inner{t - \cfrac{x}{c}}$:
 \begin{gather}
-    H = \insqr{\nabla, A} = -\cfrac{1}{c}\insqr{n, A'}.
+    \begin{matrix}
+    E = -\cfrac{1}{c} A' ; \\ 
+    H = \insqr{\nabla, A} = e_{ijk} \partial_j A^k = 
+    e_{ijk} \cfrac{\partial \inner{t - x^m /c}}{\partial x^j}  
+    \cfrac{\partial A^k}{\partial \inner{t - x^m /c}} =
+    -\cfrac{1}{c}e_{ijk} \delta_{jm} \partial_{m} A^k = 
+    -\cfrac{1}{c}\insqr{n, A'},
+    \end{matrix}
 \end{gather}
+где $A'$ обозначает дифф. по $\inner{t - \cfrac{x}{c}}$. 
+В итоге мы пришли к уже известному результату, что в 
+монохроматических волнах:
+\begin{eqnarray}
+    H = \insqr{n, E}.
+\end{eqnarray} 
+
+\subsection{Запаздывающие потенциалы}
+В дали от заряда потенциал равен:
+\begin{equation}
+    d\phi = \cfrac{d e \inner{t - \cfrac{R}{c}}}{R}
+\end{equation}
+Где $R$ - растоояния от зарядо до точки где измеряем значение потенциала. 
+Интегрирования по зарядам дет нам:
+\begin{equation}
+    \phi = \int \cfrac{1}{R} \rho\inner{r', t - \cfrac{R}{c}} dV'
+\end{equation}
+В $R $ выражается как $R = r - r'$,  $r' -$ 
+вектор от начала координат до заряда, $r -$ 
+век. от н.к. до точки измерения. Выражение для 
+векторного потенциала плучатся аналогично:
+\begin{equation}
+    A = \cfrac{1}{c} \int \cfrac{j \inner{r',t - R/c}}{R} dV' 
+\end{equation}
+
 Зная что:
 \begin{equation}
     A = \cfrac{1}{cR} \sum ev = \cfrac{1}{cR} \dot d.

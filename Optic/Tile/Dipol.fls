@@ -871,8 +871,8 @@ INPUT /home/mat/.miktex/texmfs/install/tex/latex/amsfonts/ueuf.fd
 INPUT /home/mat/.miktex/texmfs/install/fonts/tfm/public/amsfonts/euler/eufm10.tfm
 INPUT /home/mat/.miktex/texmfs/install/fonts/tfm/public/amsfonts/euler/eufm7.tfm
 INPUT /home/mat/.miktex/texmfs/install/fonts/tfm/public/amsfonts/euler/eufm5.tfm
+INPUT /home/mat/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1200.tfm
 INPUT /home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolF.enc
-INPUT /home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc
 INPUT ./omega.jpg
 INPUT ./omega.jpg
 INPUT omega.jpg
@@ -887,6 +887,7 @@ INPUT ./phi.jpg
 INPUT ./phi.jpg
 INPUT ./phi.jpg
 INPUT ./phi.jpg
+INPUT /home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc
 INPUT Dipol.aux
 INPUT ./Dipol.out
 INPUT ./Dipol.out

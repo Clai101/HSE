@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1684019411 "/home/mat/Documents/HSE/Optic/Tile/Dipol.tex" "Dipol.pdf" "Dipol" 1684019412 0
+["pdflatex"] 1685351473 "/home/mat/Documents/HSE/Optic/Tile/Dipol.tex" "Dipol.pdf" "Dipol" 1685351474 0
   "/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1682147298 89649 ab86388f254f042e0352c93c8266abfe ""
   "/home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk" 1679596013 23468 4d61948ad7aacfa8a14d41ee6619e4f8 ""
   "/home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1679596011 29472 ea2776997b96b215d649b08c802da1c4 ""
@@ -11,6 +11,7 @@
   "/home/mat/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm0500.tfm" 1681181717 3252 bc0f8cc163ba94bbce20e59f671a255d ""
   "/home/mat/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm0700.tfm" 1681181716 3256 b15a2ce2310c0038b96c5235b038f0eb ""
   "/home/mat/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1679595995 3220 0e417eaf233b160335902e97259a6c77 ""
+  "/home/mat/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm1200.tfm" 1683657998 3240 c2435f2b5cd66d4930bc29b8df87967e ""
   "/home/mat/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1683527859 23170672 34c819beb191c26c5bd126371a6d42bf ""
   "/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc" 1679595917 3341 78e600b269762aa2a25a5293cc4535c0 ""
   "/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc" 1679595917 3275 8d7166dfdbc31ffdc8aba0c31b3bd5c8 ""
@@ -143,11 +144,11 @@
   "/home/mat/.miktex/texmfs/install/tex/latex/url/url.sty" 1679594903 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/home/mat/.miktex/texmfs/install/tex/latex/wrapfig/wrapfig.sty" 1679595950 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/home/mat/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty" 1679594903 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "/home/mat/Documents/HSE/Optic/Tile/Dipol.tex" 1684019410 14294 aa33ae3346a6a99b42215827c7772029 ""
-  "Dipol.aux" 1684019412 3080 0fd09eef95115d4be53eb6cc9b0a1989 "pdflatex"
-  "Dipol.out" 1684019412 2354 59b3ea9c56cf1ad8e01e1f6a97f9b6e1 "pdflatex"
-  "Dipol.tex" 1684019410 14294 aa33ae3346a6a99b42215827c7772029 ""
-  "Dipol.toc" 1684019412 1147 218e17bc03b02bb308355f630cc7a68f "pdflatex"
+  "/home/mat/Documents/HSE/Optic/Tile/Dipol.tex" 1685351472 15863 11849c6ba7d5c4ed50535e6cbaaacd12 ""
+  "Dipol.aux" 1685351474 3221 5413e85b5d258341174663881599cf8b "pdflatex"
+  "Dipol.out" 1685351474 2442 06619af990ed7bd5513ef5672f629024 "pdflatex"
+  "Dipol.tex" 1685351472 15863 11849c6ba7d5c4ed50535e6cbaaacd12 ""
+  "Dipol.toc" 1685351474 1169 f0a88b92712dd4eb5f1dfb437434f15c "pdflatex"
   "omega.jpg" 1684016587 45418 5dee12baca147aa5ff9a1e32e0951e0e ""
   "phi.jpg" 1684016590 42078 dbde23913f6827397415ebc7a3362553 ""
   "sh.jpg" 1684016585 43944 4dd6a4012504759666c358c6ad77c1cf ""

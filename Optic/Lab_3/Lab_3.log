@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.8)  19 MAY 2023 11:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.8)  20 MAY 2023 19:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -853,7 +853,7 @@ File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@lib@dec@text@box=\box72
 )
 \tikz@lib@dec@te@box=\box73
-) (/home/mat/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/libraries/tikzlibraryexternal.code.tex (/home/mat/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzexternalshared.code.tex)) (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux))
+) (/home/mat/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/libraries/tikzlibraryexternal.code.tex (/home/mat/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzexternalshared.code.tex)) (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux))
 \openout1 = `Lab_3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
@@ -932,7 +932,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 5.
  (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Ex_1/approx.png, id=24, 462.528pt x 346.896pt>
+<Ex_1/approx.png, id=29, 462.528pt x 346.896pt>
 File: Ex_1/approx.png Graphic file (type png)
 <use Ex_1/approx.png>
 Package pdftex.def Info: Ex_1/approx.png  used on input line 22.
@@ -946,22 +946,52 @@ Package pdftex.def Info: Ex_1/approx.png  used on input line 22.
 
 
 
-] (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux))
+]
+\openout2 = `Ex_3/Ex_3.aux'.
+
+ (Ex_3/Ex_3.tex
+<Ex_3/3_3.png, id=46, 462.528pt x 346.896pt>
+File: Ex_3/3_3.png Graphic file (type png)
+<use Ex_3/3_3.png>
+Package pdftex.def Info: Ex_3/3_3.png  used on input line 7.
+(pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
+<Ex_3/3_2.png, id=48, 462.528pt x 346.896pt>
+File: Ex_3/3_2.png Graphic file (type png)
+<use Ex_3/3_2.png>
+Package pdftex.def Info: Ex_3/3_2.png  used on input line 14.
+(pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Ex_3/3_1.png, id=50, 462.528pt x 346.896pt>
+File: Ex_3/3_1.png Graphic file (type png)
+<use Ex_3/3_1.png>
+Package pdftex.def Info: Ex_3/3_1.png  used on input line 21.
+(pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [4
+
+
+
+ <./Ex_3/3_3.png>] [5 <./Ex_3/3_2.png>] [6 <./Ex_3/3_1.png>] (Lab_3.aux (Ex_1/Ex_1.aux) (Ex_2/Ex_2.aux) (Ex_3/Ex_3.aux))
 Package rerunfilecheck Info: File `Lab_3.out' has not changed.
-(rerunfilecheck)             Checksum: 6DB6F994C84DB256F1D790246144C1F8;246.
+(rerunfilecheck)             Checksum: CA0E58DA23999300B9282B1EBD301A6A;377.
  ) 
 Here is how much of TeX's memory you used:
- 28376 strings out of 476340
- 524227 string characters out of 5793713
+ 28439 strings out of 476340
+ 525574 string characters out of 5793713
  1853388 words of memory out of 5000000
- 48313 multiletter control sequences out of 15000+600000
+ 48356 multiletter control sequences out of 15000+600000
  522286 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,6n,89p,641b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on Lab_3.pdf (3 pages, 76014 bytes).
+ 84i,11n,89p,641b,458s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on Lab_3.pdf (6 pages, 235940 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 40 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 182 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
