@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.8)  29 MAY 2023 18:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.8)  30 MAY 2023 18:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -344,6 +344,13 @@ Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \titlewidth=\dimen161
 \titlewidthlast=\dimen162
 \titlewidthfirst=\dimen163
+) (/home/mat/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks32
+\float@box=\box59
+\@float@everytoks=\toks33
+\@floatcapt=\box60
 ) (/home/mat/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
  (/home/mat/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
@@ -375,20 +382,21 @@ Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@hangindent=\dimen173
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count286
-\c@continuedfloat=\count287
+\c@caption@flags=\count287
+\c@continuedfloat=\count288
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 )
 Package caption Info: New subtype `subfigure' on input line 239.
-\c@subfigure=\count288
+\c@subfigure=\count289
 Package caption Info: New subtype `subtable' on input line 239.
-\c@subtable=\count289
+\c@subtable=\count290
 ) (/home/mat/.miktex/texmfs/install/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen174
 \WF@size=\dimen175
-\c@WF@wrappedlines=\count290
-\WF@box=\box59
-\WF@everypar=\toks32
+\c@WF@wrappedlines=\count291
+\WF@box=\box61
+\WF@everypar=\toks34
 Package: wrapfig 2003/01/31  v 3.6
 ) (/home/mat/.miktex/texmfs/install/tex/latex/cancel/cancel.sty
 Package: cancel 2013/04/12 v2.2 Cancel math terms
@@ -396,13 +404,13 @@ Package: cancel 2013/04/12 v2.2 Cancel math terms
 Package: misccorr 1999/09/23 v0.1 misc corrections for russian typesetting
  (/home/mat/.miktex/texmfs/install/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks33
+\@enLab=\toks35
 )
-\c@rlistctr=\count291
+\c@rlistctr=\count292
 ) (/home/mat/.miktex/texmfs/install/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks34
-\inpenc@posthook=\toks35
+\inpenc@prehook=\toks36
+\inpenc@posthook=\toks37
 ) (/home/mat/.miktex/texmfs/install/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
  (/home/mat/.miktex/texmfs/install/tex/latex/cyrillic/t2aenc.def
@@ -615,12 +623,12 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 11
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )) (/home/mat/.miktex/texmfs/install/tex/generic/babel/babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
-\babel@savecnt=\count292
+\babel@savecnt=\count293
 \U@D=\dimen176
 \l@unhyphenated=\language79
  (/home/mat/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
-\bbl@dirlevel=\count293
+\bbl@dirlevel=\count294
 
 *************************************
 * Local config file bblopts.cfg used
@@ -662,14 +670,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (Dipol.aux
-
-LaTeX Warning: Label `pict' multiply defined.
-
-
-LaTeX Warning: Label `pict' multiply defined.
-
-)
+) (Dipol.aux (sours_tex/Equ.aux) (sours_tex/dip.aux) (sours_tex/osc.aux))
 \openout1 = `Dipol.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
@@ -699,17 +700,17 @@ Package hyperref Info: Link coloring ON on input line 126.
 
  (/home/mat/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count294
+\scratchcounter=\count295
 \scratchdimen=\dimen177
-\scratchbox=\box60
-\nofMPsegments=\count295
-\nofMParguments=\count296
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count297
+\scratchbox=\box62
+\nofMPsegments=\count296
+\nofMParguments=\count297
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count298
 \MPscratchDim=\dimen178
-\MPnumerator=\count298
-\makeMPintoPDFobject=\count299
-\everyMPtoPDFconversion=\toks37
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
+\everyMPtoPDFconversion=\toks39
 ) (/home/mat/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -742,52 +743,63 @@ Package titlesec Warning: You are using an old interface for page styles
 ) [1
 
 {/home/mat/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolC.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc}{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc}]
-<sh.jpg, id=79, 994.71625pt x 866.23625pt>
-File: sh.jpg Graphic file (type jpg)
-<use sh.jpg>
-Package pdftex.def Info: sh.jpg  used on input line 236.
+\openout2 = `sours_tex/Equ.aux'.
+
+ (sours_tex/Equ.tex [2
+
+{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}]) [3]
+\openout2 = `sours_tex/dip.aux'.
+
+ (sours_tex/dip.tex
+<sours_img/sh.jpg, id=110, 994.71625pt x 866.23625pt>
+File: sours_img/sh.jpg Graphic file (type jpg)
+<use sours_img/sh.jpg>
+Package pdftex.def Info: sours_img/sh.jpg  used on input line 18.
 (pdftex.def)             Requested size: 527.57121pt x 459.43347pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Font Info:    Trying to load font information for U+euf on input line 248.
-(/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/ueuf.fd
+LaTeX Font Info:    Trying to load font information for U+euf on input line 30.
+ (/home/mat/.miktex/texmfs/install/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-) [2{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolF.enc}] [3 <./sh.jpg>]
-<omega.jpg, id=116, 1284.8pt x 717.68124pt>
-File: omega.jpg Graphic file (type jpg)
-<use omega.jpg>
-Package pdftex.def Info: omega.jpg  used on input line 358.
-(pdftex.def)             Requested size: 263.7856pt x 147.34462pt.
-<phi.jpg, id=118, 1114.1625pt x 899.36pt>
-File: phi.jpg Graphic file (type jpg)
-<use phi.jpg>
-Package pdftex.def Info: phi.jpg  used on input line 363.
-(pdftex.def)             Requested size: 263.7856pt x 212.92778pt.
+) [4
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc} <./omega.jpg>] [5 <./phi.jpg>] (Dipol.aux)
+ <./sours_img/sh.jpg>]) [5]
+\openout2 = `sours_tex/osc.aux'.
 
-LaTeX Warning: There were multiply-defined labels.
+ (sours_tex/osc.tex [6
 
+
+
+{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
+<sours_img/omega.jpg, id=154, 462.528pt x 346.896pt>
+File: sours_img/omega.jpg Graphic file (type jpg)
+<use sours_img/omega.jpg>
+Package pdftex.def Info: sours_img/omega.jpg  used on input line 105.
+(pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
+<sours_img/phi.jpg, id=155, 462.528pt x 346.896pt>
+File: sours_img/phi.jpg Graphic file (type jpg)
+<use sours_img/phi.jpg>
+Package pdftex.def Info: sours_img/phi.jpg  used on input line 113.
+(pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
+ [7 <./sours_img/omega.jpg>]) [8 <./sours_img/phi.jpg>] [9
+
+
+] (Dipol.aux (sours_tex/Equ.aux) (sours_tex/dip.aux) (sours_tex/osc.aux))
 Package rerunfilecheck Info: File `Dipol.out' has not changed.
-(rerunfilecheck)             Checksum: 06619AF990ED7BD5513EF5672F629024;2442.
+(rerunfilecheck)             Checksum: B30E9C3B47D2A6E0B9D031214B9F8955;3096.
  ) 
 Here is how much of TeX's memory you used:
- 17452 strings out of 476340
- 269107 string characters out of 5793713
- 1871388 words of memory out of 5000000
- 37574 multiletter control sequences out of 15000+600000
- 526226 words of font info for 67 fonts, out of 8000000 for 9000
+ 17617 strings out of 476340
+ 273498 string characters out of 5793713
+ 1872388 words of memory out of 5000000
+ 37701 multiletter control sequences out of 15000+600000
+ 525424 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,15n,77p,499b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol5.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on Dipol.pdf (5 pages, 330197 bytes).
+ 75i,15n,77p,499b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol5.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/latxfont/line10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
+Output written on Dipol.pdf (9 pages, 312907 bytes).
 PDF statistics:
- 398 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 458 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 132 words of extra memory for PDF output out of 10000 (max. 10000000)
 
