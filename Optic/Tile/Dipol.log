@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.8)  30 MAY 2023 18:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.8)  30 MAY 2023 22:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -670,7 +670,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (Dipol.aux (sours_tex/Equ.aux) (sours_tex/dip.aux) (sours_tex/osc.aux))
+) (Dipol.aux (sours_tex/Equ.aux) (sours_tex/dip.aux) (sours_tex/osc.aux) (sours_tex/rot.aux))
 \openout1 = `Dipol.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
@@ -751,7 +751,7 @@ Package titlesec Warning: You are using an old interface for page styles
 \openout2 = `sours_tex/dip.aux'.
 
  (sours_tex/dip.tex
-<sours_img/sh.jpg, id=110, 994.71625pt x 866.23625pt>
+<sours_img/sh.jpg, id=116, 994.71625pt x 866.23625pt>
 File: sours_img/sh.jpg Graphic file (type jpg)
 <use sours_img/sh.jpg>
 Package pdftex.def Info: sours_img/sh.jpg  used on input line 18.
@@ -771,35 +771,42 @@ File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 
 
 {/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
-<sours_img/omega.jpg, id=154, 462.528pt x 346.896pt>
+<sours_img/omega.jpg, id=162, 462.528pt x 346.896pt>
 File: sours_img/omega.jpg Graphic file (type jpg)
 <use sours_img/omega.jpg>
 Package pdftex.def Info: sours_img/omega.jpg  used on input line 105.
 (pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
-<sours_img/phi.jpg, id=155, 462.528pt x 346.896pt>
+<sours_img/phi.jpg, id=163, 462.528pt x 346.896pt>
 File: sours_img/phi.jpg Graphic file (type jpg)
 <use sours_img/phi.jpg>
-Package pdftex.def Info: sours_img/phi.jpg  used on input line 113.
+Package pdftex.def Info: sours_img/phi.jpg  used on input line 116.
 (pdftex.def)             Requested size: 527.57121pt x 395.69844pt.
- [7 <./sours_img/omega.jpg>]) [8 <./sours_img/phi.jpg>] [9
+ [7 <./sours_img/omega.jpg>]) [8 <./sours_img/phi.jpg>]
+\openout2 = `sours_tex/rot.aux'.
+
+ (sours_tex/rot.tex) [9
 
 
-] (Dipol.aux (sours_tex/Equ.aux) (sours_tex/dip.aux) (sours_tex/osc.aux))
+
+] [10
+
+
+] (Dipol.aux (sours_tex/Equ.aux) (sours_tex/dip.aux) (sours_tex/osc.aux) (sours_tex/rot.aux))
 Package rerunfilecheck Info: File `Dipol.out' has not changed.
-(rerunfilecheck)             Checksum: B30E9C3B47D2A6E0B9D031214B9F8955;3096.
+(rerunfilecheck)             Checksum: B7BB132AAAA3B791EB01DDA1A08D64C5;3284.
  ) 
 Here is how much of TeX's memory you used:
- 17617 strings out of 476340
- 273498 string characters out of 5793713
+ 17653 strings out of 476340
+ 274552 string characters out of 5793713
  1872388 words of memory out of 5000000
- 37701 multiletter control sequences out of 15000+600000
+ 37725 multiletter control sequences out of 15000+600000
  525424 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,15n,77p,499b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol5.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/euler/eufm10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/latxfont/line10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm7.pfb>
-Output written on Dipol.pdf (9 pages, 312907 bytes).
+Output written on Dipol.pdf (10 pages, 318869 bytes).
 PDF statistics:
- 458 PDF objects out of 1000 (max. 8388607)
- 61 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 478 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 140 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -794,6 +794,9 @@ INPUT sours_tex/dip.aux
 INPUT ./sours_tex/osc.aux
 INPUT sours_tex/osc.aux
 INPUT sours_tex/osc.aux
+INPUT ./sours_tex/rot.aux
+INPUT sours_tex/rot.aux
+INPUT sours_tex/rot.aux
 OUTPUT Dipol.aux
 INPUT /home/mat/.miktex/texmfs/install/tex/latex/graphics/color.sty
 INPUT ./Dipol.out
@@ -937,6 +940,16 @@ INPUT ./sours_img/phi.jpg
 INPUT ./sours_img/phi.jpg
 INPUT ./sours_img/phi.jpg
 INPUT ./sours_img/phi.jpg
+INPUT ./sours_tex/rot.tex
+INPUT ./sours_tex/rot.tex
+INPUT ./sours_tex/rot.tex
+OUTPUT sours_tex/rot.aux
+INPUT ./sours_tex/rot.tex
+INPUT ./sours_tex/rot.tex
+INPUT ./sours_tex/rot.tex
+INPUT sours_tex/rot.tex
+INPUT ./sours_tex/rot.tex
+INPUT sours_tex/rot.tex
 INPUT Dipol.aux
 INPUT ./sours_tex/Equ.aux
 INPUT sours_tex/Equ.aux
@@ -947,6 +960,9 @@ INPUT sours_tex/dip.aux
 INPUT ./sours_tex/osc.aux
 INPUT sours_tex/osc.aux
 INPUT sours_tex/osc.aux
+INPUT ./sours_tex/rot.aux
+INPUT sours_tex/rot.aux
+INPUT sours_tex/rot.aux
 INPUT ./Dipol.out
 INPUT ./Dipol.out
 INPUT /home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk

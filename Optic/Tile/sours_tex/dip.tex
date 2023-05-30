@@ -5,7 +5,7 @@
 \begin{equation}
     A = \cfrac{1}{cR} \sum ev = \cfrac{1}{cR} \dot d.
 \end{equation}
-Так же не забываем про $E = \insqr{H, n}$, получим:
+Так же не забываем про \ref{eq:H_A} и $E = \insqr{H, n}$, получим:
 \begin{eqnarray}
     \begin{matrix}
         H = \cfrac{1}{c^2R}\insqr{\ddot d, n}, \\
@@ -27,8 +27,14 @@
 \end{equation}
 От сюда получим 
 \begin{equation}
-    d\mathfrak{I} = \cfrac{cH^2}{4\pi}R^2do
+    d\mathfrak{I} = \cfrac{c|H|^2}{4\pi}do
     \label{eq:2.7}
+\end{equation}
+Подставим $H$ из уравнения \ref{eq:2.5}:
+\begin{equation}
+    d\mathfrak{I} = \cfrac{c}{4\pi} \cfrac{1}{c^2R} \insqr{\ddot d, n}^2do 
+    =  \cfrac{|\ddot d|^2 \sin^2 \phi}{4\pi c^3 R^2} do
+    \label{eq:J_ddotd}
 \end{equation}
 
 
@@ -51,6 +57,6 @@
 Заметив что от в \ref{eq:2.7}  зависит от $t$ только посредстаом $H$ 
 получим:
 \begin{equation}
-    d\mathfrak{I} = \cfrac{c}{2\pi} \abs{H}^2R^2do
+    d\mathfrak{I} = \cfrac{c}{2\pi} \abs{H_w}^2R^2do
     \label{eq:if}
 \end{equation}
