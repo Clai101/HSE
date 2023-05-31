@@ -873,6 +873,7 @@ INPUT /home/mat/.miktex/texmfs/install/tex/latex/titlesec/titleps.sty
 INPUT /home/mat/.miktex/texmfs/install/tex/latex/titlesec/titleps.sty
 INPUT /home/mat/.miktex/texmfs/install/tex/latex/titlesec/titleps.sty
 INPUT /home/mat/.miktex/texmfs/install/tex/latex/titlesec/titleps.sty
+INPUT /home/mat/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/labx1200.tfm
 INPUT ./sours_tex/Equ.tex
 INPUT ./sours_tex/Equ.tex
 INPUT ./sours_tex/Equ.tex
@@ -887,7 +888,6 @@ INPUT ./sours_tex/Equ.tex
 INPUT sours_tex/Equ.tex
 INPUT ./sours_tex/Equ.tex
 INPUT sours_tex/Equ.tex
-INPUT /home/mat/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/labx1200.tfm
 INPUT /home/mat/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm0700.tfm
 INPUT /home/mat/.miktex/texmfs/data/fonts/tfm/lh/lh-t2a/larm0500.tfm
 INPUT /home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolF.enc
@@ -950,6 +950,13 @@ INPUT ./sours_tex/rot.tex
 INPUT sours_tex/rot.tex
 INPUT ./sours_tex/rot.tex
 INPUT sours_tex/rot.tex
+INPUT ./sours_img/rot.jpg
+INPUT ./sours_img/rot.jpg
+INPUT sours_img/rot.jpg
+INPUT ./sours_img/rot.jpg
+INPUT ./sours_img/rot.jpg
+INPUT ./sours_img/rot.jpg
+INPUT ./sours_img/rot.jpg
 INPUT Dipol.aux
 INPUT ./sours_tex/Equ.aux
 INPUT sours_tex/Equ.aux

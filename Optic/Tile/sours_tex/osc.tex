@@ -87,19 +87,26 @@
 Подставляем решение \ref{eq:ddot_d}:
 \begin{equation}
     d\mathfrak{I} = \cfrac{1}{4\pi c^3} \abs{\cfrac{eE_\omega}{m\inner{\omega_0^2 
-    - i\omega k - \omega^2 }}}^2 \sin^2\phi do.
+    - i\omega k - \omega^2 }}}^2 \sin^2\phi do = \cfrac{\abs{E_\omega}^2}{4\pi c^3} \cfrac{e^2\sin^2\phi do}{m^2\inner{(\omega_0^2- \omega^2)^2 
+    + \omega^2 k^2  }} 
 \end{equation}
 Проинтегрируем по всем углам, использовав соотношение $do = 2 \pi \sin{\phi} d\phi$:
 \begin{equation}
     \mathfrak{I} = \cfrac{2}{3c^3} \ddot{d}^2_\omega.
 \end{equation}
 
-Для падающей монохроматической волны получим:
+Для падающей монохроматической волны воспользуемся  \ref{eq:2.7} так как я уже посчитал 
+$H$, но можно было бы воспользовать \ref{eq:J_ddotd}:
 \begin{equation}
-    d\mathfrak{I} =  \cfrac{\inner{eE_0 \sin \theta}^2}{4\pi c^3 \inner{mc^2R}^2} 
+    d\mathfrak{I} =  \cfrac{\inner{eE_0 \sin \theta}^2}{4\pi c^3 \inner{mR}^2} 
     \cfrac{\omega_v^4}{\inner{\omega_0^2 - \omega_v^2 }^2 + \omega_v^2 k^2 } do
 \end{equation}
-Обозначим $\xi = \cfrac{\inner{eE_0 \sin \theta}^2}{4\pi c^3 \inner{mc^2R}^2}$
+Полная интенсивность.
+\begin{equation}
+    \mathfrak{I} =  \cfrac{2\inner{eE_0}^2}{3 \inner{mc^2R}^2} 
+    \cfrac{\omega_v^4}{\inner{\omega_0^2 - \omega_v^2 }^2 + \omega_v^2 k^2 }
+\end{equation}
+Обозначим $\xi = \cfrac{\inner{eE_0 \sin \theta}^2}{4\pi c^3 \inner{mR}^2}$
 \begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{sours_img/omega.jpg}
@@ -107,13 +114,13 @@
     \label{pict:j_w}
 \end{figure}
 
-Как мы видим на грфике прослеживается явный максимум в зависимоти $\mathfrak{I}(w_v)$ 
-а то значит, что налетающая волнп попала в резоннас с диполем, такой случай
-называют Реллеевским рассеянием. 
+Как мы видим на графике прослеживается явный максимум в зависимоти $\mathfrak{I}(w_v)$ 
+а то значит, что налетающая волнап попала в резоннас с диполем. 
 
 \begin{figure}[H]
     \centering
     \includegraphics[trim={0 0 0 0},clip,width=1\textwidth]{sours_img/phi.jpg}
+    
     \label{pict:J_phi}
 \end{figure}
 
