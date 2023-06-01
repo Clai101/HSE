@@ -1,0 +1,81 @@
+\section{Задание}
+
+Мне показалось логично округлять до целых, так как матрица остается не вырожденной
+но при этом становится диагональной, из-за чего легко искать обратную. 
+\begin{gather}
+    A = 
+    \begin{pmatrix}
+        -5.0 & 0\\ 
+        0 & -1.0
+    \end{pmatrix}
+    ;
+    \
+    \Delta A =
+    \begin{pmatrix}
+        0.03 & -0.14\\ 
+        -0.06 & 0.04
+    \end{pmatrix}
+\end{gather}
+\begin{gather}
+    b = 
+    \begin{pmatrix}
+        -5.0\\ 
+        -1.0
+    \end{pmatrix};
+    \
+    \Delta b = 
+    \begin{pmatrix}
+        -0.18\\ 
+        -0.08
+    \end{pmatrix}
+\end{gather}
+\begin{gather}
+    A^{-1} =
+    \begin{pmatrix}
+        -0.2 & 0\\ 
+        0 & -1.0
+    \end{pmatrix}
+\end{gather}
+
+Таким образом число обусловленности и погрешность $d$:
+\begin{eqnarray}
+    \kappa_1 \inner{A} = 5, & \kappa_2 \inner{A} = 5 \\
+    \delta_1 b = 23.08, & \delta_2 b = 25.89
+\end{eqnarray}
+
+Я получил погрешность:
+\begin{eqnarray}
+    5.18 \leq &\delta_1 x& \leq 115.38 \\
+    5.18 \leq &\delta_2 x& \leq 129.43
+\end{eqnarray}
+
+Предлагаю посчитаь точно и убедиться в этом, 
+не буду пояснять поск решений просто приведу результат:
+\begin{gather}
+    x_{real} = \begin{pmatrix}
+        1.08\\ 
+        1.19
+    \end{pmatrix},
+    \
+    x = 
+    \begin{pmatrix}
+        1.0\\ 
+        1.0
+    \end{pmatrix},
+    \
+    \Delta x = 
+    \begin{pmatrix}
+        0.08\\ 
+        0.19
+    \end{pmatrix}
+\end{gather}
+
+Тогда получим натоящюю погрешность:
+\begin{equation}
+    \delta_1 x = 7.46, \
+    \delta_2 x = 6.84
+\end{equation}
+
+Действительно $\delta_1 x$ и $\delta_2 x$ лежет в найденных интервалах.
+
+
