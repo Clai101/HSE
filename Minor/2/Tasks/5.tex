@@ -1,0 +1,107 @@
+\section{Задание}
+Воспользоуемся своствами матричной экспоненты:
+\begin{eqnarray}
+    \exp{C B C^{-1}} = C \exp{B} C^{-1} 
+\end{eqnarray}
+
+Характерестичесий могочлен для $A$:
+\begin{equation}
+    24.0 + -28.0*l^1 + 10.0*l^2 + -1.0*l^3 = 0
+\end{equation}
+\begin{equation}
+    l = 2, l = 6
+\end{equation}
+
+Жорданова клектка:
+\begin{gather}
+    J = \begin{pmatrix}
+        6.0 & 0 & 0\\ 
+        0 & 2.0 & 1.0\\ 
+        0 & 0 & 2.0
+    \end{pmatrix}
+    =
+    d_{up} + d
+    =
+    \begin{pmatrix}
+        0 & 0 & 0\\ 
+        0 & 0 & 1.0\\ 
+        0 & 0 & 0
+    \end{pmatrix}
+    +
+    \begin{pmatrix}
+        6.0 & 0 & 0\\ 
+        0 & 2.0 & 0\\ 
+        0 & 0 & 2.0
+    \end{pmatrix}
+\end{gather}
+
+Базисы:
+\begin{gather}
+    S = \begin{pmatrix}
+        1.0 & 0.5 & -0.25\\ 
+        1.0 & 1.0 & -1.0\\ 
+        4.0 & 1.0 & 0
+    \end{pmatrix}; \
+    S^{-1} = \begin{pmatrix}
+        -4.0 & 1.0 & 1.0\\ 
+        16.0 & -4.0 & -3.0\\ 
+        12.0 & -4.0 & -2.0
+    \end{pmatrix}
+\end{gather}
+
+Проверка разложения:
+\begin{gather}
+    SJS^{-1} = 
+    \begin{pmatrix}
+        -8.0 & 2.0 & 3.0\\ 
+        -4.0 & 2.0 & 2.0\\ 
+        -52.0 & 12.0 & 16.0
+    \end{pmatrix}
+\end{gather}
+
+Расчет $\exp J$
+
+\begin{gather}
+    \exp J = \exp(d_{up}) \exp(d) = 
+ \begin{pmatrix}
+	403.43 & 0 & 0\\ 
+	0 & 7.39 & 0\\ 
+	0 & 0 & 7.39
+\end{pmatrix}
+\begin{pmatrix}
+	1.0 & 0 & 0\\ 
+	0 & 1.0 & 1.0\\ 
+	0 & 0 & 1.0
+\end{pmatrix} = 
+\begin{pmatrix}
+	403.43 & 0 & 0\\ 
+	0 & 7.39 & 7.39\\ 
+	0 & 0 & 7.39
+\end{pmatrix}
+\end{gather}
+
+В итоге получим:
+\begin{gather}
+    \exp A = 
+    \begin{pmatrix}
+        1.0 & 0.5 & -0.25\\ 
+        1.0 & 1.0 & -1.0\\ 
+        4.0 & 1.0 & 0
+    \end{pmatrix}
+    \begin{pmatrix}
+        403.43 & 0 & 0\\ 
+        0 & 7.39 & 7.39\\ 
+        0 & 0 & 7.39
+    \end{pmatrix}
+    \begin{pmatrix}
+        -4.0 & 1.0 & 1.0\\ 
+        16.0 & -4.0 & -3.0\\ 
+        12.0 & -4.0 & -2.0
+    \end{pmatrix}
+    =
+    \begin{pmatrix}
+        -1532.44 & 381.26 & 388.65\\ 
+        -1495.49 & 373.87 & 381.26\\ 
+        -6247.97 & 1554.6 & 1576.77
+    \end{pmatrix}
+\end{gather}

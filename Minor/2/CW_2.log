@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.8)  1 JUN 2023 20:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.8)  3 JUN 2023 19:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -670,7 +670,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (CW_2.aux (Tasks/1.aux) (Tasks/2.aux) (Tasks/3.aux))
+) (CW_2.aux (Tasks/1.aux) (Tasks/2.aux) (Tasks/3.aux) (Tasks/4.aux) (Tasks/5.aux) (Tasks/6.aux) (Tasks/7.aux))
 \openout1 = `CW_2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 126.
@@ -757,24 +757,48 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 \openout2 = `Tasks/3.aux'.
 
+ (Tasks/3.tex) [4
 
-No file Tasks/3.tex.
-(CW_2.aux (Tasks/1.aux) (Tasks/2.aux) (Tasks/3.aux))
+
+
+]
+\openout2 = `Tasks/4.aux'.
+
+ (Tasks/4.tex) [5
+
+
+
+{/home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc}]
+\openout2 = `Tasks/5.aux'.
+
+ (Tasks/5.tex) [6
+
+
+
+]
+\openout2 = `Tasks/6.aux'.
+
+
+No file Tasks/6.tex.
+\openout2 = `Tasks/7.aux'.
+
+No file Tasks/7.tex.
+(CW_2.aux (Tasks/1.aux) (Tasks/2.aux) (Tasks/3.aux) (Tasks/4.aux) (Tasks/5.aux) (Tasks/6.aux) (Tasks/7.aux))
 Package rerunfilecheck Info: File `CW_2.out' has not changed.
-(rerunfilecheck)             Checksum: D2F439D80CB1B5F3C7DC130170672231;198.
+(rerunfilecheck)             Checksum: 0D2422EECC8D949875743F979C828F69;495.
  ) 
 Here is how much of TeX's memory you used:
- 17494 strings out of 476340
- 271084 string characters out of 5793713
- 1860388 words of memory out of 5000000
- 37639 multiletter control sequences out of 15000+600000
+ 17627 strings out of 476340
+ 274428 string characters out of 5793713
+ 1872388 words of memory out of 5000000
+ 37727 multiletter control sequences out of 15000+600000
  522286 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,14n,77p,495b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1000.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1440.pk> </home/mat/.miktex/texmfs/data/fonts/pk/ljfour/lh/lh-t2a/dpi600/larm1000.pk></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/mnsymbol/MnSymbol7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/mat/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on CW_2.pdf (3 pages, 123034 bytes).
+Output written on CW_2.pdf (6 pages, 144481 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 237 PDF objects out of 1000 (max. 8388607)
+ 33 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,46 @@
+\section{Задание}
+
+Напомню что алгорми следует смтореть в программе. Перед итерациями 
+привел систему к виду:
+
+\begin{equation}
+    Ax = b \implies (A - d)x + dx = b \implies d x = b + (d - A)x
+\end{equation}
+Где $d$ это диагональ $A$. Так как $d$ матрица диагональная то обратная
+вичилятся как $d_{ij}^{-1} = 1/d_{ij}$, в евклидовом пространстве не 
+различеем индексы сверху и снизу тк $g_{ij} = \delta_{ij}$, в итоге получим:
+\begin{equation}
+    x = d_{ij}^{-1} b_j + (d^{-1}_{ik} d_{kj} - d^{-1}_{ik} A_{kj}) x_j 
+    = d_{ij}^{-1} b_j + (\delta_{ij} - d^{-1}_{ik} A_{kj}) x_j
+\end{equation}
+
+В итоге получил:
+\begin{gather}
+    step = 8 
+    \
+    x = 
+    \begin{pmatrix}
+        0.34\\ 
+        0.15\\ 
+        0.04
+    \end{pmatrix}
+\end{gather}
+
+При проверке получаю:
+\begin{gather}
+    b_{app} = 
+    \begin{pmatrix}
+        8.99\\ 
+        3.99\\ 
+        4.98
+    \end{pmatrix}
+    \implies
+    \Delta b =
+    \begin{pmatrix}
+        0.01\\ 
+        0.01\\ 
+        0.02
+    \end{pmatrix}
+\end{gather}
+
+
