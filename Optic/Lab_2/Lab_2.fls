@@ -1115,6 +1115,13 @@ INPUT ./Ex_1/n4.jpg
 INPUT ./Ex_1/n4.jpg
 INPUT ./Ex_1/n4.jpg
 INPUT ./Ex_1/n4.jpg
+INPUT ./Ex_1/dat.png
+INPUT ./Ex_1/dat.png
+INPUT Ex_1/dat.png
+INPUT ./Ex_1/dat.png
+INPUT ./Ex_1/dat.png
+INPUT ./Ex_1/dat.png
+INPUT ./Ex_1/dat.png
 INPUT /home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolE.enc
 INPUT /home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolD.enc
 INPUT /home/mat/.miktex/texmfs/install/fonts/enc/dvips/mnsymbol/MnSymbolA.enc
